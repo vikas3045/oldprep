@@ -1,0 +1,7 @@
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\SortByFrequency\bin\Debug\SortByFrequency.exe.config
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\SortByFrequency\bin\Debug\SortByFrequency.exe
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\SortByFrequency\bin\Debug\SortByFrequency.pdb
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\SortByFrequency\obj\Debug\SortByFrequency.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\SortByFrequency\obj\Debug\SortByFrequency.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\SortByFrequency\obj\Debug\SortByFrequency.exe
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\SortByFrequency\obj\Debug\SortByFrequency.pdb

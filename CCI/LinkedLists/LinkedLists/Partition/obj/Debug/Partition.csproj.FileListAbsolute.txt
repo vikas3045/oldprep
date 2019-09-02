@@ -1,0 +1,10 @@
+c:\users\sharm\source\repos\preparation\CCI\LinkedLists\LinkedLists\Partition\bin\Debug\Partition.exe.config
+c:\users\sharm\source\repos\preparation\CCI\LinkedLists\LinkedLists\Partition\bin\Debug\Partition.exe
+c:\users\sharm\source\repos\preparation\CCI\LinkedLists\LinkedLists\Partition\bin\Debug\Partition.pdb
+c:\users\sharm\source\repos\preparation\CCI\LinkedLists\LinkedLists\Partition\bin\Debug\LinkedList.dll
+c:\users\sharm\source\repos\preparation\CCI\LinkedLists\LinkedLists\Partition\bin\Debug\LinkedList.pdb
+c:\users\sharm\source\repos\preparation\CCI\LinkedLists\LinkedLists\Partition\obj\Debug\Partition.csproj.CoreCompileInputs.cache
+c:\users\sharm\source\repos\preparation\CCI\LinkedLists\LinkedLists\Partition\obj\Debug\Partition.exe
+c:\users\sharm\source\repos\preparation\CCI\LinkedLists\LinkedLists\Partition\obj\Debug\Partition.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\LinkedLists\LinkedLists\Partition\obj\Debug\Partition.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\LinkedLists\LinkedLists\Partition\obj\Debug\Partition.csproj.CopyComplete

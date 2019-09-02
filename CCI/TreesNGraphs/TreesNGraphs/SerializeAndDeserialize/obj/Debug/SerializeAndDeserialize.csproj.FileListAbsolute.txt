@@ -1,0 +1,10 @@
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\SerializeAndDeserialize\bin\Debug\SerializeAndDeserialize.exe.config
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\SerializeAndDeserialize\bin\Debug\SerializeAndDeserialize.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\SerializeAndDeserialize\bin\Debug\SerializeAndDeserialize.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\SerializeAndDeserialize\bin\Debug\Tree.dll
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\SerializeAndDeserialize\bin\Debug\Tree.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\SerializeAndDeserialize\obj\Debug\SerializeAndDeserialize.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\SerializeAndDeserialize\obj\Debug\SerializeAndDeserialize.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\SerializeAndDeserialize\obj\Debug\SerializeAndDeserialize.csproj.CopyComplete
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\SerializeAndDeserialize\obj\Debug\SerializeAndDeserialize.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\SerializeAndDeserialize\obj\Debug\SerializeAndDeserialize.pdb

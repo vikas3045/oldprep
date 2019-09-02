@@ -1,0 +1,7 @@
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\MultiSearch\bin\Debug\MultiSearch.exe.config
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\MultiSearch\bin\Debug\MultiSearch.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\MultiSearch\bin\Debug\MultiSearch.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\MultiSearch\obj\Debug\MultiSearch.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\MultiSearch\obj\Debug\MultiSearch.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\MultiSearch\obj\Debug\MultiSearch.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\MultiSearch\obj\Debug\MultiSearch.pdb

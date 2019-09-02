@@ -1,0 +1,6 @@
+c:\Users\sharm\Source\Repos\Preparation\Stack\Stack\LinkedStack\bin\Debug\LinkedStack.dll
+c:\Users\sharm\Source\Repos\Preparation\Stack\Stack\LinkedStack\bin\Debug\LinkedStack.pdb
+c:\Users\sharm\Source\Repos\Preparation\Stack\Stack\LinkedStack\obj\Debug\LinkedStack.csprojResolveAssemblyReference.cache
+c:\Users\sharm\Source\Repos\Preparation\Stack\Stack\LinkedStack\obj\Debug\LinkedStack.csproj.CoreCompileInputs.cache
+c:\Users\sharm\Source\Repos\Preparation\Stack\Stack\LinkedStack\obj\Debug\LinkedStack.dll
+c:\Users\sharm\Source\Repos\Preparation\Stack\Stack\LinkedStack\obj\Debug\LinkedStack.pdb

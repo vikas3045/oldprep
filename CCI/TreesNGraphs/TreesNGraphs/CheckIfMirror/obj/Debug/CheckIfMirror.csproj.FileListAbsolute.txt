@@ -1,0 +1,10 @@
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\CheckIfMirror\bin\Debug\CheckIfMirror.exe.config
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\CheckIfMirror\bin\Debug\CheckIfMirror.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\CheckIfMirror\bin\Debug\CheckIfMirror.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\CheckIfMirror\bin\Debug\Tree.dll
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\CheckIfMirror\bin\Debug\Tree.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\CheckIfMirror\obj\Debug\CheckIfMirror.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\CheckIfMirror\obj\Debug\CheckIfMirror.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\CheckIfMirror\obj\Debug\CheckIfMirror.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\CheckIfMirror\obj\Debug\CheckIfMirror.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\CheckIfMirror\obj\Debug\CheckIfMirror.csproj.CopyComplete

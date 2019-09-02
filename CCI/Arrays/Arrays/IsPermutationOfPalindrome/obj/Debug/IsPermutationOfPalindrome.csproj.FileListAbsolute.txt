@@ -1,0 +1,7 @@
+c:\Users\sharm\Source\Repos\preparation\CCI\Arrays\Arrays\IsPermutationOfPalindrome\bin\Debug\IsPermutationOfPalindrome.exe.config
+c:\Users\sharm\Source\Repos\preparation\CCI\Arrays\Arrays\IsPermutationOfPalindrome\bin\Debug\IsPermutationOfPalindrome.exe
+c:\Users\sharm\Source\Repos\preparation\CCI\Arrays\Arrays\IsPermutationOfPalindrome\bin\Debug\IsPermutationOfPalindrome.pdb
+c:\Users\sharm\Source\Repos\preparation\CCI\Arrays\Arrays\IsPermutationOfPalindrome\obj\Debug\IsPermutationOfPalindrome.csprojResolveAssemblyReference.cache
+c:\Users\sharm\Source\Repos\preparation\CCI\Arrays\Arrays\IsPermutationOfPalindrome\obj\Debug\IsPermutationOfPalindrome.csproj.CoreCompileInputs.cache
+c:\Users\sharm\Source\Repos\preparation\CCI\Arrays\Arrays\IsPermutationOfPalindrome\obj\Debug\IsPermutationOfPalindrome.exe
+c:\Users\sharm\Source\Repos\preparation\CCI\Arrays\Arrays\IsPermutationOfPalindrome\obj\Debug\IsPermutationOfPalindrome.pdb

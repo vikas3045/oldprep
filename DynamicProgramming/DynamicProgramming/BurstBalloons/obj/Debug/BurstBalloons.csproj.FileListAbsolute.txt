@@ -1,0 +1,7 @@
+C:\Users\sharm\Source\Repos\Preparation\DynamicProgramming\DynamicProgramming\BurstBalloons\bin\Debug\BurstBalloons.exe.config
+C:\Users\sharm\Source\Repos\Preparation\DynamicProgramming\DynamicProgramming\BurstBalloons\bin\Debug\BurstBalloons.exe
+C:\Users\sharm\Source\Repos\Preparation\DynamicProgramming\DynamicProgramming\BurstBalloons\bin\Debug\BurstBalloons.pdb
+C:\Users\sharm\Source\Repos\Preparation\DynamicProgramming\DynamicProgramming\BurstBalloons\obj\Debug\BurstBalloons.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\DynamicProgramming\DynamicProgramming\BurstBalloons\obj\Debug\BurstBalloons.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\DynamicProgramming\DynamicProgramming\BurstBalloons\obj\Debug\BurstBalloons.exe
+C:\Users\sharm\Source\Repos\Preparation\DynamicProgramming\DynamicProgramming\BurstBalloons\obj\Debug\BurstBalloons.pdb

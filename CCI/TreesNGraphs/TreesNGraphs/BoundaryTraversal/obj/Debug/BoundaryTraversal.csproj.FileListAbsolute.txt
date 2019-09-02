@@ -1,0 +1,10 @@
+C:\Users\sharm\source\repos\preparation\CCI\TreesNGraphs\TreesNGraphs\BoundaryTraversal\bin\Debug\BoundaryTraversal.exe.config
+C:\Users\sharm\source\repos\preparation\CCI\TreesNGraphs\TreesNGraphs\BoundaryTraversal\bin\Debug\BoundaryTraversal.exe
+C:\Users\sharm\source\repos\preparation\CCI\TreesNGraphs\TreesNGraphs\BoundaryTraversal\bin\Debug\BoundaryTraversal.pdb
+C:\Users\sharm\source\repos\preparation\CCI\TreesNGraphs\TreesNGraphs\BoundaryTraversal\bin\Debug\Tree.dll
+C:\Users\sharm\source\repos\preparation\CCI\TreesNGraphs\TreesNGraphs\BoundaryTraversal\bin\Debug\Tree.pdb
+C:\Users\sharm\source\repos\preparation\CCI\TreesNGraphs\TreesNGraphs\BoundaryTraversal\obj\Debug\BoundaryTraversal.csproj.CoreCompileInputs.cache
+C:\Users\sharm\source\repos\preparation\CCI\TreesNGraphs\TreesNGraphs\BoundaryTraversal\obj\Debug\BoundaryTraversal.exe
+C:\Users\sharm\source\repos\preparation\CCI\TreesNGraphs\TreesNGraphs\BoundaryTraversal\obj\Debug\BoundaryTraversal.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\BoundaryTraversal\obj\Debug\BoundaryTraversal.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\BoundaryTraversal\obj\Debug\BoundaryTraversal.csproj.CopyComplete

@@ -1,0 +1,7 @@
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\DijkstraAlgo\bin\Debug\DijkstraAlgo.exe.config
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\DijkstraAlgo\bin\Debug\DijkstraAlgo.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\DijkstraAlgo\bin\Debug\DijkstraAlgo.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\DijkstraAlgo\obj\Debug\DijkstraAlgo.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\DijkstraAlgo\obj\Debug\DijkstraAlgo.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\DijkstraAlgo\obj\Debug\DijkstraAlgo.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\DijkstraAlgo\obj\Debug\DijkstraAlgo.pdb

@@ -1,0 +1,7 @@
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\BabyNames\bin\Debug\BabyNames.exe.config
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\BabyNames\bin\Debug\BabyNames.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\BabyNames\bin\Debug\BabyNames.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\BabyNames\obj\Debug\BabyNames.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\BabyNames\obj\Debug\BabyNames.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\BabyNames\obj\Debug\BabyNames.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\BabyNames\obj\Debug\BabyNames.pdb

@@ -1,0 +1,11 @@
+c:\Users\sharm\Source\Repos\Preparation\Stack\Stack\CheckBalancingOfSymbols\bin\Debug\CheckBalancingOfSymbols.exe.config
+c:\Users\sharm\Source\Repos\Preparation\Stack\Stack\CheckBalancingOfSymbols\bin\Debug\CheckBalancingOfSymbols.exe
+c:\Users\sharm\Source\Repos\Preparation\Stack\Stack\CheckBalancingOfSymbols\bin\Debug\CheckBalancingOfSymbols.pdb
+c:\Users\sharm\Source\Repos\Preparation\Stack\Stack\CheckBalancingOfSymbols\bin\Debug\LinkedStack.dll
+c:\Users\sharm\Source\Repos\Preparation\Stack\Stack\CheckBalancingOfSymbols\bin\Debug\SimpleStack.dll
+c:\Users\sharm\Source\Repos\Preparation\Stack\Stack\CheckBalancingOfSymbols\bin\Debug\LinkedStack.pdb
+c:\Users\sharm\Source\Repos\Preparation\Stack\Stack\CheckBalancingOfSymbols\bin\Debug\SimpleStack.pdb
+c:\Users\sharm\Source\Repos\Preparation\Stack\Stack\CheckBalancingOfSymbols\obj\Debug\CheckBalancingOfSymbols.csprojResolveAssemblyReference.cache
+c:\Users\sharm\Source\Repos\Preparation\Stack\Stack\CheckBalancingOfSymbols\obj\Debug\CheckBalancingOfSymbols.csproj.CoreCompileInputs.cache
+c:\Users\sharm\Source\Repos\Preparation\Stack\Stack\CheckBalancingOfSymbols\obj\Debug\CheckBalancingOfSymbols.exe
+c:\Users\sharm\Source\Repos\Preparation\Stack\Stack\CheckBalancingOfSymbols\obj\Debug\CheckBalancingOfSymbols.pdb

@@ -1,0 +1,7 @@
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\AddWithoutPlus\bin\Debug\AddWithoutPlus.exe.config
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\AddWithoutPlus\bin\Debug\AddWithoutPlus.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\AddWithoutPlus\bin\Debug\AddWithoutPlus.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\AddWithoutPlus\obj\Debug\AddWithoutPlus.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\AddWithoutPlus\obj\Debug\AddWithoutPlus.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\AddWithoutPlus\obj\Debug\AddWithoutPlus.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\AddWithoutPlus\obj\Debug\AddWithoutPlus.pdb

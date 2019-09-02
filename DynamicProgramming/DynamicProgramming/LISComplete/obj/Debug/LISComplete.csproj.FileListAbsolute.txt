@@ -1,0 +1,7 @@
+C:\Users\sharm\Source\Repos\Preparation\DynamicProgramming\DynamicProgramming\LISComplete\bin\Debug\LISComplete.exe.config
+C:\Users\sharm\Source\Repos\Preparation\DynamicProgramming\DynamicProgramming\LISComplete\bin\Debug\LISComplete.exe
+C:\Users\sharm\Source\Repos\Preparation\DynamicProgramming\DynamicProgramming\LISComplete\bin\Debug\LISComplete.pdb
+C:\Users\sharm\Source\Repos\Preparation\DynamicProgramming\DynamicProgramming\LISComplete\obj\Debug\LISComplete.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\DynamicProgramming\DynamicProgramming\LISComplete\obj\Debug\LISComplete.exe
+C:\Users\sharm\Source\Repos\Preparation\DynamicProgramming\DynamicProgramming\LISComplete\obj\Debug\LISComplete.pdb
+C:\Users\sharm\Source\Repos\Preparation\DynamicProgramming\DynamicProgramming\LISComplete\obj\Debug\LISComplete.csprojAssemblyReference.cache

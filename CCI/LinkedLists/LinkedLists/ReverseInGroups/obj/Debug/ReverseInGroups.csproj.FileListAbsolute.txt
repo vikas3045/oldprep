@@ -1,0 +1,10 @@
+C:\Users\sharm\Source\Repos\Preparation\CCI\LinkedLists\LinkedLists\ReverseInGroups\bin\Debug\ReverseInGroups.exe.config
+C:\Users\sharm\Source\Repos\Preparation\CCI\LinkedLists\LinkedLists\ReverseInGroups\bin\Debug\ReverseInGroups.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\LinkedLists\LinkedLists\ReverseInGroups\bin\Debug\ReverseInGroups.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\LinkedLists\LinkedLists\ReverseInGroups\bin\Debug\LinkedList.dll
+C:\Users\sharm\Source\Repos\Preparation\CCI\LinkedLists\LinkedLists\ReverseInGroups\bin\Debug\LinkedList.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\LinkedLists\LinkedLists\ReverseInGroups\obj\Debug\ReverseInGroups.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\LinkedLists\LinkedLists\ReverseInGroups\obj\Debug\ReverseInGroups.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\LinkedLists\LinkedLists\ReverseInGroups\obj\Debug\ReverseInGroups.pdb
+C:\Users\sharm\source\repos\preparation\CCI\LinkedLists\LinkedLists\ReverseInGroups\obj\Debug\ReverseInGroups.csprojAssemblyReference.cache
+C:\Users\sharm\source\repos\preparation\CCI\LinkedLists\LinkedLists\ReverseInGroups\obj\Debug\ReverseInGroups.csproj.CopyComplete

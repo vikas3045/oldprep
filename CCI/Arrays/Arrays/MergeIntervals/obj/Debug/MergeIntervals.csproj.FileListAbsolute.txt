@@ -1,0 +1,7 @@
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\MergeIntervals\bin\Debug\MergeIntervals.exe.config
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\MergeIntervals\bin\Debug\MergeIntervals.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\MergeIntervals\bin\Debug\MergeIntervals.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\MergeIntervals\obj\Debug\MergeIntervals.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\MergeIntervals\obj\Debug\MergeIntervals.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\MergeIntervals\obj\Debug\MergeIntervals.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\MergeIntervals\obj\Debug\MergeIntervals.pdb

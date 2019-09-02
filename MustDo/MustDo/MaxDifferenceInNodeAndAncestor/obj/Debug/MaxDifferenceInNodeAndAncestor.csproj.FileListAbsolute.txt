@@ -1,0 +1,10 @@
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\MaxDifferenceInNodeAndAncestor\bin\Debug\MaxDifferenceInNodeAndAncestor.exe.config
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\MaxDifferenceInNodeAndAncestor\bin\Debug\MaxDifferenceInNodeAndAncestor.exe
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\MaxDifferenceInNodeAndAncestor\bin\Debug\MaxDifferenceInNodeAndAncestor.pdb
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\MaxDifferenceInNodeAndAncestor\bin\Debug\TreeNode.dll
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\MaxDifferenceInNodeAndAncestor\bin\Debug\TreeNode.pdb
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\MaxDifferenceInNodeAndAncestor\obj\Debug\MaxDifferenceInNodeAndAncestor.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\MaxDifferenceInNodeAndAncestor\obj\Debug\MaxDifferenceInNodeAndAncestor.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\MaxDifferenceInNodeAndAncestor\obj\Debug\MaxDifferenceInNodeAndAncestor.csproj.CopyComplete
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\MaxDifferenceInNodeAndAncestor\obj\Debug\MaxDifferenceInNodeAndAncestor.exe
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\MaxDifferenceInNodeAndAncestor\obj\Debug\MaxDifferenceInNodeAndAncestor.pdb

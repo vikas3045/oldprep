@@ -1,0 +1,7 @@
+c:\Users\sharm\Source\Repos\preparation\CCI\Arrays\Arrays\RotateMatrix\bin\Debug\RotateMatrix.exe.config
+c:\Users\sharm\Source\Repos\preparation\CCI\Arrays\Arrays\RotateMatrix\bin\Debug\RotateMatrix.exe
+c:\Users\sharm\Source\Repos\preparation\CCI\Arrays\Arrays\RotateMatrix\bin\Debug\RotateMatrix.pdb
+c:\Users\sharm\Source\Repos\preparation\CCI\Arrays\Arrays\RotateMatrix\obj\Debug\RotateMatrix.csproj.CoreCompileInputs.cache
+c:\Users\sharm\Source\Repos\preparation\CCI\Arrays\Arrays\RotateMatrix\obj\Debug\RotateMatrix.exe
+c:\Users\sharm\Source\Repos\preparation\CCI\Arrays\Arrays\RotateMatrix\obj\Debug\RotateMatrix.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\RotateMatrix\obj\Debug\RotateMatrix.csprojAssemblyReference.cache

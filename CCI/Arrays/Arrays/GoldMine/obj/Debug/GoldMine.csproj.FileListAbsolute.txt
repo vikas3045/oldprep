@@ -1,0 +1,7 @@
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\GoldMine\bin\Debug\GoldMine.exe.config
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\GoldMine\bin\Debug\GoldMine.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\GoldMine\bin\Debug\GoldMine.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\GoldMine\obj\Debug\GoldMine.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\GoldMine\obj\Debug\GoldMine.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\GoldMine\obj\Debug\GoldMine.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\GoldMine\obj\Debug\GoldMine.pdb

@@ -1,0 +1,7 @@
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\SpecialStack\bin\Debug\SpecialStack.exe.config
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\SpecialStack\bin\Debug\SpecialStack.exe
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\SpecialStack\bin\Debug\SpecialStack.pdb
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\SpecialStack\obj\Debug\SpecialStack.csprojResolveAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\SpecialStack\obj\Debug\SpecialStack.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\SpecialStack\obj\Debug\SpecialStack.exe
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\SpecialStack\obj\Debug\SpecialStack.pdb

@@ -1,0 +1,6 @@
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\TreeNode\bin\Debug\TreeNode.dll
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\TreeNode\bin\Debug\TreeNode.pdb
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\TreeNode\obj\Debug\TreeNode.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\TreeNode\obj\Debug\TreeNode.dll
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\TreeNode\obj\Debug\TreeNode.pdb
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\TreeNode\obj\Debug\TreeNode.csprojAssemblyReference.cache

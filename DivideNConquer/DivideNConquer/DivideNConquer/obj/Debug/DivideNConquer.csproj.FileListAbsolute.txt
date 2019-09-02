@@ -1,0 +1,7 @@
+c:\users\sharm\source\repos\preparation\DivideNConquer\DivideNConquer\DivideNConquer\bin\Debug\DivideNConquer.exe.config
+c:\users\sharm\source\repos\preparation\DivideNConquer\DivideNConquer\DivideNConquer\bin\Debug\DivideNConquer.exe
+c:\users\sharm\source\repos\preparation\DivideNConquer\DivideNConquer\DivideNConquer\bin\Debug\DivideNConquer.pdb
+c:\users\sharm\source\repos\preparation\DivideNConquer\DivideNConquer\DivideNConquer\obj\Debug\DivideNConquer.csprojResolveAssemblyReference.cache
+c:\users\sharm\source\repos\preparation\DivideNConquer\DivideNConquer\DivideNConquer\obj\Debug\DivideNConquer.csproj.CoreCompileInputs.cache
+c:\users\sharm\source\repos\preparation\DivideNConquer\DivideNConquer\DivideNConquer\obj\Debug\DivideNConquer.exe
+c:\users\sharm\source\repos\preparation\DivideNConquer\DivideNConquer\DivideNConquer\obj\Debug\DivideNConquer.pdb

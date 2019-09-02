@@ -1,0 +1,9 @@
+C:\Users\sharm\source\repos\Preparation\LinkedList\ReversePair\bin\Debug\ReversePair.exe.config
+C:\Users\sharm\source\repos\Preparation\LinkedList\ReversePair\bin\Debug\ReversePair.exe
+C:\Users\sharm\source\repos\Preparation\LinkedList\ReversePair\bin\Debug\ReversePair.pdb
+C:\Users\sharm\source\repos\Preparation\LinkedList\ReversePair\bin\Debug\LinkedList.dll
+C:\Users\sharm\source\repos\Preparation\LinkedList\ReversePair\bin\Debug\LinkedList.pdb
+C:\Users\sharm\source\repos\Preparation\LinkedList\ReversePair\obj\Debug\ReversePair.csproj.CoreCompileInputs.cache
+C:\Users\sharm\source\repos\Preparation\LinkedList\ReversePair\obj\Debug\ReversePair.exe
+C:\Users\sharm\source\repos\Preparation\LinkedList\ReversePair\obj\Debug\ReversePair.pdb
+C:\Users\sharm\source\repos\Preparation\LinkedList\ReversePair\obj\Debug\ReversePair.csprojResolveAssemblyReference.cache

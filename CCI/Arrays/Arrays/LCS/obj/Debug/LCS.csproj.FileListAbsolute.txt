@@ -1,0 +1,7 @@
+c:\Users\sharm\Source\Repos\preparation\CCI\Arrays\Arrays\LCS\bin\Debug\LCS.exe.config
+c:\Users\sharm\Source\Repos\preparation\CCI\Arrays\Arrays\LCS\bin\Debug\LCS.exe
+c:\Users\sharm\Source\Repos\preparation\CCI\Arrays\Arrays\LCS\bin\Debug\LCS.pdb
+c:\Users\sharm\Source\Repos\preparation\CCI\Arrays\Arrays\LCS\obj\Debug\LCS.csproj.CoreCompileInputs.cache
+c:\Users\sharm\Source\Repos\preparation\CCI\Arrays\Arrays\LCS\obj\Debug\LCS.exe
+c:\Users\sharm\Source\Repos\preparation\CCI\Arrays\Arrays\LCS\obj\Debug\LCS.pdb
+C:\Users\sharm\Source\Repos\preparation\CCI\Arrays\Arrays\LCS\obj\Debug\LCS.csprojAssemblyReference.cache

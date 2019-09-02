@@ -1,0 +1,11 @@
+c:\Users\sharm\Source\Repos\Preparation\Tree\Tree\PostOrder\bin\Debug\PostOrder.exe.config
+c:\Users\sharm\Source\Repos\Preparation\Tree\Tree\PostOrder\bin\Debug\PostOrder.exe
+c:\Users\sharm\Source\Repos\Preparation\Tree\Tree\PostOrder\bin\Debug\PostOrder.pdb
+c:\Users\sharm\Source\Repos\Preparation\Tree\Tree\PostOrder\bin\Debug\Stack.dll
+c:\Users\sharm\Source\Repos\Preparation\Tree\Tree\PostOrder\bin\Debug\Tree.dll
+c:\Users\sharm\Source\Repos\Preparation\Tree\Tree\PostOrder\bin\Debug\Stack.pdb
+c:\Users\sharm\Source\Repos\Preparation\Tree\Tree\PostOrder\bin\Debug\Tree.pdb
+c:\Users\sharm\Source\Repos\Preparation\Tree\Tree\PostOrder\obj\Debug\PostOrder.csproj.CoreCompileInputs.cache
+c:\Users\sharm\Source\Repos\Preparation\Tree\Tree\PostOrder\obj\Debug\PostOrder.exe
+c:\Users\sharm\Source\Repos\Preparation\Tree\Tree\PostOrder\obj\Debug\PostOrder.pdb
+c:\Users\sharm\Source\Repos\Preparation\Tree\Tree\PostOrder\obj\Debug\PostOrder.csprojResolveAssemblyReference.cache

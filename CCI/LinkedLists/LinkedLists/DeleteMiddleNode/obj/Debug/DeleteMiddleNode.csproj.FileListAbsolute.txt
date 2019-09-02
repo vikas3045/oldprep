@@ -1,0 +1,10 @@
+C:\Users\sharm\source\repos\preparation\CCI\LinkedLists\LinkedLists\DeleteMiddleNode\bin\Debug\DeleteMiddleNode.exe.config
+C:\Users\sharm\source\repos\preparation\CCI\LinkedLists\LinkedLists\DeleteMiddleNode\bin\Debug\DeleteMiddleNode.exe
+C:\Users\sharm\source\repos\preparation\CCI\LinkedLists\LinkedLists\DeleteMiddleNode\bin\Debug\DeleteMiddleNode.pdb
+C:\Users\sharm\source\repos\preparation\CCI\LinkedLists\LinkedLists\DeleteMiddleNode\bin\Debug\LinkedList.dll
+C:\Users\sharm\source\repos\preparation\CCI\LinkedLists\LinkedLists\DeleteMiddleNode\bin\Debug\LinkedList.pdb
+C:\Users\sharm\source\repos\preparation\CCI\LinkedLists\LinkedLists\DeleteMiddleNode\obj\Debug\DeleteMiddleNode.csprojAssemblyReference.cache
+C:\Users\sharm\source\repos\preparation\CCI\LinkedLists\LinkedLists\DeleteMiddleNode\obj\Debug\DeleteMiddleNode.csproj.CoreCompileInputs.cache
+C:\Users\sharm\source\repos\preparation\CCI\LinkedLists\LinkedLists\DeleteMiddleNode\obj\Debug\DeleteMiddleNode.csproj.CopyComplete
+C:\Users\sharm\source\repos\preparation\CCI\LinkedLists\LinkedLists\DeleteMiddleNode\obj\Debug\DeleteMiddleNode.exe
+C:\Users\sharm\source\repos\preparation\CCI\LinkedLists\LinkedLists\DeleteMiddleNode\obj\Debug\DeleteMiddleNode.pdb

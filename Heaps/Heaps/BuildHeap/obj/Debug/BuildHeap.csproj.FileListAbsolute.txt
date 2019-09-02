@@ -1,0 +1,9 @@
+c:\Users\sharm\Source\Repos\Preparation\Heaps\Heaps\BuildHeap\bin\Debug\BuildHeap.exe.config
+c:\Users\sharm\Source\Repos\Preparation\Heaps\Heaps\BuildHeap\bin\Debug\BuildHeap.exe
+c:\Users\sharm\Source\Repos\Preparation\Heaps\Heaps\BuildHeap\bin\Debug\BuildHeap.pdb
+c:\Users\sharm\Source\Repos\Preparation\Heaps\Heaps\BuildHeap\bin\Debug\Heaps.dll
+c:\Users\sharm\Source\Repos\Preparation\Heaps\Heaps\BuildHeap\bin\Debug\Heaps.pdb
+c:\Users\sharm\Source\Repos\Preparation\Heaps\Heaps\BuildHeap\obj\Debug\BuildHeap.csprojResolveAssemblyReference.cache
+c:\Users\sharm\Source\Repos\Preparation\Heaps\Heaps\BuildHeap\obj\Debug\BuildHeap.csproj.CoreCompileInputs.cache
+c:\Users\sharm\Source\Repos\Preparation\Heaps\Heaps\BuildHeap\obj\Debug\BuildHeap.exe
+c:\Users\sharm\Source\Repos\Preparation\Heaps\Heaps\BuildHeap\obj\Debug\BuildHeap.pdb

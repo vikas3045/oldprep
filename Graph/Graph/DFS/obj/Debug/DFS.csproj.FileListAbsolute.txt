@@ -1,0 +1,9 @@
+C:\Users\sharm\Source\Repos\preparation\Graph\Graph\DFS\bin\Debug\DFS.exe.config
+C:\Users\sharm\Source\Repos\preparation\Graph\Graph\DFS\bin\Debug\DFS.exe
+C:\Users\sharm\Source\Repos\preparation\Graph\Graph\DFS\bin\Debug\DFS.pdb
+C:\Users\sharm\Source\Repos\preparation\Graph\Graph\DFS\bin\Debug\Graph.dll
+C:\Users\sharm\Source\Repos\preparation\Graph\Graph\DFS\bin\Debug\Graph.pdb
+C:\Users\sharm\Source\Repos\preparation\Graph\Graph\DFS\obj\Debug\DFS.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\preparation\Graph\Graph\DFS\obj\Debug\DFS.exe
+C:\Users\sharm\Source\Repos\preparation\Graph\Graph\DFS\obj\Debug\DFS.pdb
+C:\Users\sharm\Source\Repos\preparation\Graph\Graph\DFS\obj\Debug\DFS.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\NextGreaterElement\bin\Debug\NextGreaterElement.exe.config
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\NextGreaterElement\bin\Debug\NextGreaterElement.exe
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\NextGreaterElement\bin\Debug\NextGreaterElement.pdb
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\NextGreaterElement\obj\Debug\NextGreaterElement.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\NextGreaterElement\obj\Debug\NextGreaterElement.exe
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\NextGreaterElement\obj\Debug\NextGreaterElement.pdb
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\NextGreaterElement\obj\Debug\NextGreaterElement.csprojAssemblyReference.cache

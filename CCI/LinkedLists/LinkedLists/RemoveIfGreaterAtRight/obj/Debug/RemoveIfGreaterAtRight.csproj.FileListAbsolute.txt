@@ -1,0 +1,10 @@
+C:\Users\sharm\Source\Repos\Preparation\CCI\LinkedLists\LinkedLists\RemoveIfGreaterAtRight\bin\Debug\RemoveIfGreaterAtRight.exe.config
+C:\Users\sharm\Source\Repos\Preparation\CCI\LinkedLists\LinkedLists\RemoveIfGreaterAtRight\bin\Debug\RemoveIfGreaterAtRight.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\LinkedLists\LinkedLists\RemoveIfGreaterAtRight\bin\Debug\RemoveIfGreaterAtRight.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\LinkedLists\LinkedLists\RemoveIfGreaterAtRight\bin\Debug\LinkedList.dll
+C:\Users\sharm\Source\Repos\Preparation\CCI\LinkedLists\LinkedLists\RemoveIfGreaterAtRight\bin\Debug\LinkedList.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\LinkedLists\LinkedLists\RemoveIfGreaterAtRight\obj\Debug\RemoveIfGreaterAtRight.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\LinkedLists\LinkedLists\RemoveIfGreaterAtRight\obj\Debug\RemoveIfGreaterAtRight.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\LinkedLists\LinkedLists\RemoveIfGreaterAtRight\obj\Debug\RemoveIfGreaterAtRight.pdb
+C:\Users\sharm\source\repos\preparation\CCI\LinkedLists\LinkedLists\RemoveIfGreaterAtRight\obj\Debug\RemoveIfGreaterAtRight.csprojAssemblyReference.cache
+C:\Users\sharm\source\repos\preparation\CCI\LinkedLists\LinkedLists\RemoveIfGreaterAtRight\obj\Debug\RemoveIfGreaterAtRight.csproj.CopyComplete

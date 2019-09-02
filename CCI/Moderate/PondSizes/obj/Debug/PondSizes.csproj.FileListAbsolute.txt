@@ -1,0 +1,7 @@
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\PondSizes\bin\Debug\PondSizes.exe.config
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\PondSizes\bin\Debug\PondSizes.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\PondSizes\bin\Debug\PondSizes.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\PondSizes\obj\Debug\PondSizes.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\PondSizes\obj\Debug\PondSizes.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\PondSizes\obj\Debug\PondSizes.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\PondSizes\obj\Debug\PondSizes.pdb

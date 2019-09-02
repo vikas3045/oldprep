@@ -1,0 +1,6 @@
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\SmallestDifference\bin\Debug\SmallestDifference.exe.config
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\SmallestDifference\bin\Debug\SmallestDifference.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\SmallestDifference\bin\Debug\SmallestDifference.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\SmallestDifference\obj\Debug\SmallestDifference.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\SmallestDifference\obj\Debug\SmallestDifference.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\SmallestDifference\obj\Debug\SmallestDifference.pdb

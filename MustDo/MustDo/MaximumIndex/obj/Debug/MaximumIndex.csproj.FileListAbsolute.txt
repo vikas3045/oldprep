@@ -1,0 +1,7 @@
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\MaximumIndex\bin\Debug\MaximumIndex.exe.config
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\MaximumIndex\bin\Debug\MaximumIndex.exe
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\MaximumIndex\bin\Debug\MaximumIndex.pdb
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\MaximumIndex\obj\Debug\MaximumIndex.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\MaximumIndex\obj\Debug\MaximumIndex.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\MaximumIndex\obj\Debug\MaximumIndex.exe
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\MaximumIndex\obj\Debug\MaximumIndex.pdb

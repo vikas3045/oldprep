@@ -1,0 +1,7 @@
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\LangtonsAnt\bin\Debug\LangtonsAnt.exe.config
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\LangtonsAnt\bin\Debug\LangtonsAnt.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\LangtonsAnt\bin\Debug\LangtonsAnt.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\LangtonsAnt\obj\Debug\LangtonsAnt.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\LangtonsAnt\obj\Debug\LangtonsAnt.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\LangtonsAnt\obj\Debug\LangtonsAnt.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\LangtonsAnt\obj\Debug\LangtonsAnt.csprojAssemblyReference.cache

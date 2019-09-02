@@ -1,0 +1,6 @@
+c:\users\sharm\source\repos\Preparation\Tree\Tree\Tree\bin\Debug\Tree.dll
+c:\users\sharm\source\repos\Preparation\Tree\Tree\Tree\bin\Debug\Tree.pdb
+c:\users\sharm\source\repos\Preparation\Tree\Tree\Tree\obj\Debug\Tree.csprojResolveAssemblyReference.cache
+c:\users\sharm\source\repos\Preparation\Tree\Tree\Tree\obj\Debug\Tree.csproj.CoreCompileInputs.cache
+c:\users\sharm\source\repos\Preparation\Tree\Tree\Tree\obj\Debug\Tree.dll
+c:\users\sharm\source\repos\Preparation\Tree\Tree\Tree\obj\Debug\Tree.pdb

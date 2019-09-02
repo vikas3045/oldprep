@@ -1,0 +1,7 @@
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\DFA\bin\Debug\DFA.exe.config
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\DFA\bin\Debug\DFA.exe
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\DFA\bin\Debug\DFA.pdb
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\DFA\obj\Debug\DFA.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\DFA\obj\Debug\DFA.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\DFA\obj\Debug\DFA.exe
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\DFA\obj\Debug\DFA.pdb

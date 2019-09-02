@@ -1,0 +1,7 @@
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\PlusONe\bin\Debug\PlusONe.exe.config
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\PlusONe\bin\Debug\PlusONe.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\PlusONe\bin\Debug\PlusONe.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\PlusONe\obj\Debug\PlusONe.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\PlusONe\obj\Debug\PlusONe.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\PlusONe\obj\Debug\PlusONe.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\PlusONe\obj\Debug\PlusONe.pdb

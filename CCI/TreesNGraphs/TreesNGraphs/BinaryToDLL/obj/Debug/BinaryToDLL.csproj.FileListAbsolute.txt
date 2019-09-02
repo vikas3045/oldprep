@@ -1,0 +1,10 @@
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\BinaryToDLL\bin\Debug\BinaryToDLL.exe.config
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\BinaryToDLL\bin\Debug\BinaryToDLL.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\BinaryToDLL\bin\Debug\BinaryToDLL.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\BinaryToDLL\bin\Debug\Tree.dll
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\BinaryToDLL\bin\Debug\Tree.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\BinaryToDLL\obj\Debug\BinaryToDLL.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\BinaryToDLL\obj\Debug\BinaryToDLL.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\BinaryToDLL\obj\Debug\BinaryToDLL.csproj.CopyComplete
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\BinaryToDLL\obj\Debug\BinaryToDLL.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\BinaryToDLL\obj\Debug\BinaryToDLL.pdb

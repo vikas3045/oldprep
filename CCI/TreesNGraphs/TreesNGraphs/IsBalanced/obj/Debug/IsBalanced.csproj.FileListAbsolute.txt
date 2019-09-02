@@ -1,0 +1,9 @@
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\IsBalanced\bin\Debug\IsBalanced.exe.config
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\IsBalanced\bin\Debug\IsBalanced.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\IsBalanced\bin\Debug\IsBalanced.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\IsBalanced\bin\Debug\Tree.dll
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\IsBalanced\bin\Debug\Tree.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\IsBalanced\obj\Debug\IsBalanced.csprojResolveAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\IsBalanced\obj\Debug\IsBalanced.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\IsBalanced\obj\Debug\IsBalanced.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\IsBalanced\obj\Debug\IsBalanced.pdb

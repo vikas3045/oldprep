@@ -1,0 +1,7 @@
+C:\Users\sharm\Source\Repos\preparation\HR\Arrays\Arrays\2DArrayDS\bin\Debug\2DArrayDS.exe.config
+C:\Users\sharm\Source\Repos\preparation\HR\Arrays\Arrays\2DArrayDS\bin\Debug\2DArrayDS.exe
+C:\Users\sharm\Source\Repos\preparation\HR\Arrays\Arrays\2DArrayDS\bin\Debug\2DArrayDS.pdb
+C:\Users\sharm\Source\Repos\preparation\HR\Arrays\Arrays\2DArrayDS\obj\Debug\2DArrayDS.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\preparation\HR\Arrays\Arrays\2DArrayDS\obj\Debug\2DArrayDS.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\preparation\HR\Arrays\Arrays\2DArrayDS\obj\Debug\2DArrayDS.exe
+C:\Users\sharm\Source\Repos\preparation\HR\Arrays\Arrays\2DArrayDS\obj\Debug\2DArrayDS.pdb

@@ -1,0 +1,9 @@
+C:\Users\sharm\Source\Repos\Preparation\CCI\LinkedLists\LinkedLists\Folding\bin\Debug\Folding.exe.config
+C:\Users\sharm\Source\Repos\Preparation\CCI\LinkedLists\LinkedLists\Folding\bin\Debug\Folding.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\LinkedLists\LinkedLists\Folding\bin\Debug\Folding.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\LinkedLists\LinkedLists\Folding\bin\Debug\LinkedList.dll
+C:\Users\sharm\Source\Repos\Preparation\CCI\LinkedLists\LinkedLists\Folding\bin\Debug\LinkedList.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\LinkedLists\LinkedLists\Folding\obj\Debug\Folding.csprojResolveAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\LinkedLists\LinkedLists\Folding\obj\Debug\Folding.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\LinkedLists\LinkedLists\Folding\obj\Debug\Folding.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\LinkedLists\LinkedLists\Folding\obj\Debug\Folding.pdb

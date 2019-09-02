@@ -1,0 +1,9 @@
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\LevelOrderToBST\bin\Debug\LevelOrderToBST.exe.config
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\LevelOrderToBST\bin\Debug\LevelOrderToBST.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\LevelOrderToBST\bin\Debug\LevelOrderToBST.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\LevelOrderToBST\bin\Debug\Tree.dll
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\LevelOrderToBST\bin\Debug\Tree.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\LevelOrderToBST\obj\Debug\LevelOrderToBST.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\LevelOrderToBST\obj\Debug\LevelOrderToBST.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\LevelOrderToBST\obj\Debug\LevelOrderToBST.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\LevelOrderToBST\obj\Debug\LevelOrderToBST.csproj.CopyComplete

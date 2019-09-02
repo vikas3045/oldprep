@@ -1,0 +1,7 @@
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\T9-OldCellPhone\bin\Debug\T9-OldCellPhone.exe.config
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\T9-OldCellPhone\bin\Debug\T9-OldCellPhone.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\T9-OldCellPhone\bin\Debug\T9-OldCellPhone.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\T9-OldCellPhone\obj\Debug\T9-OldCellPhone.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\T9-OldCellPhone\obj\Debug\T9-OldCellPhone.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\T9-OldCellPhone\obj\Debug\T9-OldCellPhone.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\T9-OldCellPhone\obj\Debug\T9-OldCellPhone.pdb

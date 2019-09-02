@@ -1,0 +1,7 @@
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\VolumeOfHistogram\bin\Debug\VolumeOfHistogram.exe.config
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\VolumeOfHistogram\bin\Debug\VolumeOfHistogram.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\VolumeOfHistogram\bin\Debug\VolumeOfHistogram.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\VolumeOfHistogram\obj\Debug\VolumeOfHistogram.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\VolumeOfHistogram\obj\Debug\VolumeOfHistogram.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\VolumeOfHistogram\obj\Debug\VolumeOfHistogram.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\VolumeOfHistogram\obj\Debug\VolumeOfHistogram.pdb

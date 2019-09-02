@@ -1,0 +1,7 @@
+C:\Users\sharm\Source\Repos\Preparation\DynamicProgramming\DynamicProgramming\GreedySeats\bin\Debug\GreedySeats.exe.config
+C:\Users\sharm\Source\Repos\Preparation\DynamicProgramming\DynamicProgramming\GreedySeats\bin\Debug\GreedySeats.exe
+C:\Users\sharm\Source\Repos\Preparation\DynamicProgramming\DynamicProgramming\GreedySeats\bin\Debug\GreedySeats.pdb
+C:\Users\sharm\Source\Repos\Preparation\DynamicProgramming\DynamicProgramming\GreedySeats\obj\Debug\GreedySeats.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\DynamicProgramming\DynamicProgramming\GreedySeats\obj\Debug\GreedySeats.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\DynamicProgramming\DynamicProgramming\GreedySeats\obj\Debug\GreedySeats.exe
+C:\Users\sharm\Source\Repos\Preparation\DynamicProgramming\DynamicProgramming\GreedySeats\obj\Debug\GreedySeats.pdb

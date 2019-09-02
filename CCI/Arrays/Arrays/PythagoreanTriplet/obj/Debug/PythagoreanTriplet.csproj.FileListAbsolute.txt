@@ -1,0 +1,7 @@
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\PythagoreanTriplet\bin\Debug\PythagoreanTriplet.exe.config
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\PythagoreanTriplet\bin\Debug\PythagoreanTriplet.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\PythagoreanTriplet\bin\Debug\PythagoreanTriplet.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\PythagoreanTriplet\obj\Debug\PythagoreanTriplet.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\PythagoreanTriplet\obj\Debug\PythagoreanTriplet.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\PythagoreanTriplet\obj\Debug\PythagoreanTriplet.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\PythagoreanTriplet\obj\Debug\PythagoreanTriplet.pdb

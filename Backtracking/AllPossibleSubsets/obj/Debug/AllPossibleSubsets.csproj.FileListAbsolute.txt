@@ -1,0 +1,7 @@
+C:\Users\sharm\Source\Repos\Preparation\Backtracking\AllPossibleSubsets\bin\Debug\AllPossibleSubsets.exe.config
+C:\Users\sharm\Source\Repos\Preparation\Backtracking\AllPossibleSubsets\bin\Debug\AllPossibleSubsets.exe
+C:\Users\sharm\Source\Repos\Preparation\Backtracking\AllPossibleSubsets\bin\Debug\AllPossibleSubsets.pdb
+C:\Users\sharm\Source\Repos\Preparation\Backtracking\AllPossibleSubsets\obj\Debug\AllPossibleSubsets.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\Backtracking\AllPossibleSubsets\obj\Debug\AllPossibleSubsets.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\Backtracking\AllPossibleSubsets\obj\Debug\AllPossibleSubsets.exe
+C:\Users\sharm\Source\Repos\Preparation\Backtracking\AllPossibleSubsets\obj\Debug\AllPossibleSubsets.pdb

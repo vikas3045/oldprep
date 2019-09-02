@@ -1,0 +1,7 @@
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\ContiguousSequence\bin\Debug\ContiguousSequence.exe.config
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\ContiguousSequence\bin\Debug\ContiguousSequence.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\ContiguousSequence\bin\Debug\ContiguousSequence.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\ContiguousSequence\obj\Debug\ContiguousSequence.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\ContiguousSequence\obj\Debug\ContiguousSequence.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\ContiguousSequence\obj\Debug\ContiguousSequence.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\ContiguousSequence\obj\Debug\ContiguousSequence.csprojAssemblyReference.cache

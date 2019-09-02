@@ -1,0 +1,6 @@
+C:\Users\sharm\Source\Repos\preparation\CCI\Arrays\Arrays\Stocks\bin\Debug\Stocks.exe.config
+C:\Users\sharm\Source\Repos\preparation\CCI\Arrays\Arrays\Stocks\bin\Debug\Stocks.exe
+C:\Users\sharm\Source\Repos\preparation\CCI\Arrays\Arrays\Stocks\bin\Debug\Stocks.pdb
+C:\Users\sharm\Source\Repos\preparation\CCI\Arrays\Arrays\Stocks\obj\Debug\Stocks.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\preparation\CCI\Arrays\Arrays\Stocks\obj\Debug\Stocks.exe
+C:\Users\sharm\Source\Repos\preparation\CCI\Arrays\Arrays\Stocks\obj\Debug\Stocks.pdb

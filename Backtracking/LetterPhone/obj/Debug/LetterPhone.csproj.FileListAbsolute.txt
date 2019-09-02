@@ -1,0 +1,7 @@
+C:\Users\sharm\Source\Repos\Preparation\Backtracking\LetterPhone\bin\Debug\LetterPhone.exe.config
+C:\Users\sharm\Source\Repos\Preparation\Backtracking\LetterPhone\bin\Debug\LetterPhone.exe
+C:\Users\sharm\Source\Repos\Preparation\Backtracking\LetterPhone\bin\Debug\LetterPhone.pdb
+C:\Users\sharm\Source\Repos\Preparation\Backtracking\LetterPhone\obj\Debug\LetterPhone.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\Backtracking\LetterPhone\obj\Debug\LetterPhone.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\Backtracking\LetterPhone\obj\Debug\LetterPhone.exe
+C:\Users\sharm\Source\Repos\Preparation\Backtracking\LetterPhone\obj\Debug\LetterPhone.pdb

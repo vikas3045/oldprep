@@ -1,0 +1,7 @@
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\PrintSpiralMatrix\bin\Debug\PrintSpiralMatrix.exe.config
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\PrintSpiralMatrix\bin\Debug\PrintSpiralMatrix.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\PrintSpiralMatrix\bin\Debug\PrintSpiralMatrix.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\PrintSpiralMatrix\obj\Debug\PrintSpiralMatrix.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\PrintSpiralMatrix\obj\Debug\PrintSpiralMatrix.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\PrintSpiralMatrix\obj\Debug\PrintSpiralMatrix.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\PrintSpiralMatrix\obj\Debug\PrintSpiralMatrix.pdb

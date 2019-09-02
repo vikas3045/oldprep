@@ -1,0 +1,7 @@
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\WordFrequencies\bin\Debug\WordFrequencies.exe.config
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\WordFrequencies\bin\Debug\WordFrequencies.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\WordFrequencies\bin\Debug\WordFrequencies.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\WordFrequencies\obj\Debug\WordFrequencies.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\WordFrequencies\obj\Debug\WordFrequencies.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\WordFrequencies\obj\Debug\WordFrequencies.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\WordFrequencies\obj\Debug\WordFrequencies.pdb

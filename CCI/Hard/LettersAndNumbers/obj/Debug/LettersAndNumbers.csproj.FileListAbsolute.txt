@@ -1,0 +1,7 @@
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\LettersAndNumbers\bin\Debug\LettersAndNumbers.exe.config
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\LettersAndNumbers\bin\Debug\LettersAndNumbers.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\LettersAndNumbers\bin\Debug\LettersAndNumbers.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\LettersAndNumbers\obj\Debug\LettersAndNumbers.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\LettersAndNumbers\obj\Debug\LettersAndNumbers.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\LettersAndNumbers\obj\Debug\LettersAndNumbers.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\LettersAndNumbers\obj\Debug\LettersAndNumbers.pdb

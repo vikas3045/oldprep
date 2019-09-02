@@ -1,0 +1,6 @@
+c:\Users\sharm\Source\Repos\preparation\CCI\Arrays\Arrays\ZeroMatrix\bin\Debug\ZeroMatrix.exe.config
+c:\Users\sharm\Source\Repos\preparation\CCI\Arrays\Arrays\ZeroMatrix\bin\Debug\ZeroMatrix.exe
+c:\Users\sharm\Source\Repos\preparation\CCI\Arrays\Arrays\ZeroMatrix\bin\Debug\ZeroMatrix.pdb
+c:\Users\sharm\Source\Repos\preparation\CCI\Arrays\Arrays\ZeroMatrix\obj\Debug\ZeroMatrix.csproj.CoreCompileInputs.cache
+c:\Users\sharm\Source\Repos\preparation\CCI\Arrays\Arrays\ZeroMatrix\obj\Debug\ZeroMatrix.exe
+c:\Users\sharm\Source\Repos\preparation\CCI\Arrays\Arrays\ZeroMatrix\obj\Debug\ZeroMatrix.pdb

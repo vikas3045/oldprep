@@ -1,0 +1,7 @@
+C:\Users\sharm\Source\Repos\Preparation\DynamicProgramming\DynamicProgramming\PalindromicSubstrings\bin\Debug\PalindromicSubstrings.exe.config
+C:\Users\sharm\Source\Repos\Preparation\DynamicProgramming\DynamicProgramming\PalindromicSubstrings\bin\Debug\PalindromicSubstrings.exe
+C:\Users\sharm\Source\Repos\Preparation\DynamicProgramming\DynamicProgramming\PalindromicSubstrings\bin\Debug\PalindromicSubstrings.pdb
+C:\Users\sharm\Source\Repos\Preparation\DynamicProgramming\DynamicProgramming\PalindromicSubstrings\obj\Debug\PalindromicSubstrings.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\DynamicProgramming\DynamicProgramming\PalindromicSubstrings\obj\Debug\PalindromicSubstrings.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\DynamicProgramming\DynamicProgramming\PalindromicSubstrings\obj\Debug\PalindromicSubstrings.exe
+C:\Users\sharm\Source\Repos\Preparation\DynamicProgramming\DynamicProgramming\PalindromicSubstrings\obj\Debug\PalindromicSubstrings.pdb

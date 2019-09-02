@@ -1,0 +1,7 @@
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\CountOf2s\bin\Debug\CountOf2s.exe.config
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\CountOf2s\bin\Debug\CountOf2s.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\CountOf2s\bin\Debug\CountOf2s.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\CountOf2s\obj\Debug\CountOf2s.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\CountOf2s\obj\Debug\CountOf2s.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\CountOf2s\obj\Debug\CountOf2s.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\CountOf2s\obj\Debug\CountOf2s.pdb

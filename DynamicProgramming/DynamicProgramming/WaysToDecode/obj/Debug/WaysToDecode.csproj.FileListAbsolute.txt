@@ -1,0 +1,7 @@
+C:\Users\sharm\Source\Repos\Preparation\DynamicProgramming\DynamicProgramming\WaysToDecode\bin\Debug\WaysToDecode.exe.config
+C:\Users\sharm\Source\Repos\Preparation\DynamicProgramming\DynamicProgramming\WaysToDecode\bin\Debug\WaysToDecode.exe
+C:\Users\sharm\Source\Repos\Preparation\DynamicProgramming\DynamicProgramming\WaysToDecode\bin\Debug\WaysToDecode.pdb
+C:\Users\sharm\Source\Repos\Preparation\DynamicProgramming\DynamicProgramming\WaysToDecode\obj\Debug\WaysToDecode.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\DynamicProgramming\DynamicProgramming\WaysToDecode\obj\Debug\WaysToDecode.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\DynamicProgramming\DynamicProgramming\WaysToDecode\obj\Debug\WaysToDecode.exe
+C:\Users\sharm\Source\Repos\Preparation\DynamicProgramming\DynamicProgramming\WaysToDecode\obj\Debug\WaysToDecode.pdb

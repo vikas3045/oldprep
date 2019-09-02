@@ -1,0 +1,7 @@
+C:\Users\sharm\Source\Repos\Preparation\Backtracking\Combinations\bin\Debug\Combinations.exe.config
+C:\Users\sharm\Source\Repos\Preparation\Backtracking\Combinations\bin\Debug\Combinations.exe
+C:\Users\sharm\Source\Repos\Preparation\Backtracking\Combinations\bin\Debug\Combinations.pdb
+C:\Users\sharm\Source\Repos\Preparation\Backtracking\Combinations\obj\Debug\Combinations.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\Backtracking\Combinations\obj\Debug\Combinations.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\Backtracking\Combinations\obj\Debug\Combinations.exe
+C:\Users\sharm\Source\Repos\Preparation\Backtracking\Combinations\obj\Debug\Combinations.pdb

@@ -1,0 +1,6 @@
+c:\Users\sharm\Source\Repos\Preparation\Stack\Stack\SimpleStack\bin\Debug\SimpleStack.dll
+c:\Users\sharm\Source\Repos\Preparation\Stack\Stack\SimpleStack\bin\Debug\SimpleStack.pdb
+c:\Users\sharm\Source\Repos\Preparation\Stack\Stack\SimpleStack\obj\Debug\SimpleStack.csprojResolveAssemblyReference.cache
+c:\Users\sharm\Source\Repos\Preparation\Stack\Stack\SimpleStack\obj\Debug\SimpleStack.csproj.CoreCompileInputs.cache
+c:\Users\sharm\Source\Repos\Preparation\Stack\Stack\SimpleStack\obj\Debug\SimpleStack.dll
+c:\Users\sharm\Source\Repos\Preparation\Stack\Stack\SimpleStack\obj\Debug\SimpleStack.pdb

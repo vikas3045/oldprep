@@ -1,0 +1,10 @@
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\BinaryTreeToDLL\bin\Debug\BinaryTreeToDLL.exe.config
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\BinaryTreeToDLL\bin\Debug\BinaryTreeToDLL.exe
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\BinaryTreeToDLL\bin\Debug\BinaryTreeToDLL.pdb
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\BinaryTreeToDLL\bin\Debug\TreeNode.dll
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\BinaryTreeToDLL\bin\Debug\TreeNode.pdb
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\BinaryTreeToDLL\obj\Debug\BinaryTreeToDLL.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\BinaryTreeToDLL\obj\Debug\BinaryTreeToDLL.exe
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\BinaryTreeToDLL\obj\Debug\BinaryTreeToDLL.pdb
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\BinaryTreeToDLL\obj\Debug\BinaryTreeToDLL.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\BinaryTreeToDLL\obj\Debug\BinaryTreeToDLL.csproj.CopyComplete

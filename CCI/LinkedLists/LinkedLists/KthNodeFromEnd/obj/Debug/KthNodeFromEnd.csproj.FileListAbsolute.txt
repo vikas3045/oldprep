@@ -1,0 +1,9 @@
+c:\users\sharm\source\repos\preparation\CCI\LinkedLists\LinkedLists\KthNodeFromEnd\bin\Debug\KthNodeFromEnd.exe.config
+c:\users\sharm\source\repos\preparation\CCI\LinkedLists\LinkedLists\KthNodeFromEnd\bin\Debug\KthNodeFromEnd.exe
+c:\users\sharm\source\repos\preparation\CCI\LinkedLists\LinkedLists\KthNodeFromEnd\bin\Debug\KthNodeFromEnd.pdb
+c:\users\sharm\source\repos\preparation\CCI\LinkedLists\LinkedLists\KthNodeFromEnd\bin\Debug\LinkedList.dll
+c:\users\sharm\source\repos\preparation\CCI\LinkedLists\LinkedLists\KthNodeFromEnd\bin\Debug\LinkedList.pdb
+c:\users\sharm\source\repos\preparation\CCI\LinkedLists\LinkedLists\KthNodeFromEnd\obj\Debug\KthNodeFromEnd.csproj.CoreCompileInputs.cache
+c:\users\sharm\source\repos\preparation\CCI\LinkedLists\LinkedLists\KthNodeFromEnd\obj\Debug\KthNodeFromEnd.exe
+c:\users\sharm\source\repos\preparation\CCI\LinkedLists\LinkedLists\KthNodeFromEnd\obj\Debug\KthNodeFromEnd.pdb
+C:\Users\sharm\source\repos\preparation\CCI\LinkedLists\LinkedLists\KthNodeFromEnd\obj\Debug\KthNodeFromEnd.csproj.CopyComplete

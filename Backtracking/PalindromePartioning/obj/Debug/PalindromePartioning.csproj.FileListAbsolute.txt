@@ -1,0 +1,7 @@
+C:\Users\sharm\Source\Repos\Preparation\Backtracking\PalindromePartioning\bin\Debug\PalindromePartioning.exe.config
+C:\Users\sharm\Source\Repos\Preparation\Backtracking\PalindromePartioning\bin\Debug\PalindromePartioning.exe
+C:\Users\sharm\Source\Repos\Preparation\Backtracking\PalindromePartioning\bin\Debug\PalindromePartioning.pdb
+C:\Users\sharm\Source\Repos\Preparation\Backtracking\PalindromePartioning\obj\Debug\PalindromePartioning.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\Backtracking\PalindromePartioning\obj\Debug\PalindromePartioning.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\Backtracking\PalindromePartioning\obj\Debug\PalindromePartioning.exe
+C:\Users\sharm\Source\Repos\Preparation\Backtracking\PalindromePartioning\obj\Debug\PalindromePartioning.pdb

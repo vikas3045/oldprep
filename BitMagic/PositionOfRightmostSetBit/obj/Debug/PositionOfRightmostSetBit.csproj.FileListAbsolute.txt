@@ -1,0 +1,11 @@
+C:\Users\sharm\Source\Repos\Preparation\BitMagic\PositionOfRightmostSetBit\bin\Debug\PositionOfRightmostSetBit.exe.config
+C:\Users\sharm\Source\Repos\Preparation\BitMagic\PositionOfRightmostSetBit\bin\Debug\PositionOfRightmostSetBit.exe
+C:\Users\sharm\Source\Repos\Preparation\BitMagic\PositionOfRightmostSetBit\bin\Debug\PositionOfRightmostSetBit.pdb
+C:\Users\sharm\Source\Repos\Preparation\BitMagic\PositionOfRightmostSetBit\obj\Debug\PositionOfRightmostSetBit.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\BitMagic\PositionOfRightmostSetBit\obj\Debug\PositionOfRightmostSetBit.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\BitMagic\PositionOfRightmostSetBit\obj\Debug\PositionOfRightmostSetBit.exe
+C:\Users\sharm\Source\Repos\Preparation\BitMagic\PositionOfRightmostSetBit\obj\Debug\PositionOfRightmostSetBit.pdb
+C:\Users\sharm\Source\Repos\Preparation\BitMagic\PositionOfRightmostSetBit\bin\Debug\DecimalToBinary.exe
+C:\Users\sharm\Source\Repos\Preparation\BitMagic\PositionOfRightmostSetBit\bin\Debug\DecimalToBinary.pdb
+C:\Users\sharm\Source\Repos\Preparation\BitMagic\PositionOfRightmostSetBit\bin\Debug\DecimalToBinary.exe.config
+C:\Users\sharm\Source\Repos\Preparation\BitMagic\PositionOfRightmostSetBit\obj\Debug\PositionOfRightmostSetBit.csproj.CopyComplete

@@ -1,0 +1,7 @@
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\WildCardPatternMatching\bin\Debug\WildCardPatternMatching.exe.config
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\WildCardPatternMatching\bin\Debug\WildCardPatternMatching.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\WildCardPatternMatching\bin\Debug\WildCardPatternMatching.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\WildCardPatternMatching\obj\Debug\WildCardPatternMatching.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\WildCardPatternMatching\obj\Debug\WildCardPatternMatching.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\WildCardPatternMatching\obj\Debug\WildCardPatternMatching.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\WildCardPatternMatching\obj\Debug\WildCardPatternMatching.pdb

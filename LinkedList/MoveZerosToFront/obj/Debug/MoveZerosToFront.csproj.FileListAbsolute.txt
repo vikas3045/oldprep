@@ -1,0 +1,9 @@
+C:\Users\sharm\source\repos\Preparation\LinkedList\MoveZerosToFront\bin\Debug\MoveZerosToFront.exe.config
+C:\Users\sharm\source\repos\Preparation\LinkedList\MoveZerosToFront\bin\Debug\MoveZerosToFront.exe
+C:\Users\sharm\source\repos\Preparation\LinkedList\MoveZerosToFront\bin\Debug\MoveZerosToFront.pdb
+C:\Users\sharm\source\repos\Preparation\LinkedList\MoveZerosToFront\bin\Debug\LinkedList.dll
+C:\Users\sharm\source\repos\Preparation\LinkedList\MoveZerosToFront\bin\Debug\LinkedList.pdb
+C:\Users\sharm\source\repos\Preparation\LinkedList\MoveZerosToFront\obj\Debug\MoveZerosToFront.csprojResolveAssemblyReference.cache
+C:\Users\sharm\source\repos\Preparation\LinkedList\MoveZerosToFront\obj\Debug\MoveZerosToFront.csproj.CoreCompileInputs.cache
+C:\Users\sharm\source\repos\Preparation\LinkedList\MoveZerosToFront\obj\Debug\MoveZerosToFront.exe
+C:\Users\sharm\source\repos\Preparation\LinkedList\MoveZerosToFront\obj\Debug\MoveZerosToFront.pdb

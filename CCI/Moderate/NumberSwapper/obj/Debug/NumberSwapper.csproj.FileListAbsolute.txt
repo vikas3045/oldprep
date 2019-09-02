@@ -1,0 +1,7 @@
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\NumberSwapper\bin\Debug\NumberSwapper.exe.config
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\NumberSwapper\bin\Debug\NumberSwapper.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\NumberSwapper\bin\Debug\NumberSwapper.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\NumberSwapper\obj\Debug\NumberSwapper.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\NumberSwapper\obj\Debug\NumberSwapper.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\NumberSwapper\obj\Debug\NumberSwapper.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\NumberSwapper\obj\Debug\NumberSwapper.pdb

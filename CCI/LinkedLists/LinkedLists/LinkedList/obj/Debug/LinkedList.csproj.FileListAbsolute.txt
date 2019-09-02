@@ -1,0 +1,12 @@
+C:\Users\sharm\source\repos\Preparation\LinkedList\LinkedList\bin\Debug\LinkedList.dll
+C:\Users\sharm\source\repos\Preparation\LinkedList\LinkedList\bin\Debug\LinkedList.pdb
+C:\Users\sharm\source\repos\Preparation\LinkedList\LinkedList\obj\Debug\LinkedList.csprojResolveAssemblyReference.cache
+C:\Users\sharm\source\repos\Preparation\LinkedList\LinkedList\obj\Debug\LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\sharm\source\repos\Preparation\LinkedList\LinkedList\obj\Debug\LinkedList.dll
+C:\Users\sharm\source\repos\Preparation\LinkedList\LinkedList\obj\Debug\LinkedList.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\LinkedLists\LinkedLists\LinkedList\bin\Debug\LinkedList.dll
+C:\Users\sharm\Source\Repos\Preparation\CCI\LinkedLists\LinkedLists\LinkedList\bin\Debug\LinkedList.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\LinkedLists\LinkedLists\LinkedList\obj\Debug\LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\LinkedLists\LinkedLists\LinkedList\obj\Debug\LinkedList.dll
+C:\Users\sharm\Source\Repos\Preparation\CCI\LinkedLists\LinkedLists\LinkedList\obj\Debug\LinkedList.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\LinkedLists\LinkedLists\LinkedList\obj\Debug\LinkedList.csprojAssemblyReference.cache

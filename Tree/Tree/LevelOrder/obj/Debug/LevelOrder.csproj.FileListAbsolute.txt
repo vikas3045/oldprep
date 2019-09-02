@@ -1,0 +1,9 @@
+C:\Users\sharm\Source\Repos\Preparation\Tree\Tree\LevelOrder\bin\Debug\LevelOrder.exe.config
+C:\Users\sharm\Source\Repos\Preparation\Tree\Tree\LevelOrder\bin\Debug\LevelOrder.exe
+C:\Users\sharm\Source\Repos\Preparation\Tree\Tree\LevelOrder\bin\Debug\LevelOrder.pdb
+C:\Users\sharm\Source\Repos\Preparation\Tree\Tree\LevelOrder\bin\Debug\Tree.dll
+C:\Users\sharm\Source\Repos\Preparation\Tree\Tree\LevelOrder\bin\Debug\Tree.pdb
+C:\Users\sharm\Source\Repos\Preparation\Tree\Tree\LevelOrder\obj\Debug\LevelOrder.csprojResolveAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\Tree\Tree\LevelOrder\obj\Debug\LevelOrder.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\Tree\Tree\LevelOrder\obj\Debug\LevelOrder.exe
+C:\Users\sharm\Source\Repos\Preparation\Tree\Tree\LevelOrder\obj\Debug\LevelOrder.pdb

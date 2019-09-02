@@ -1,0 +1,10 @@
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\DuplicateSubtree\bin\Debug\DuplicateSubtree.exe.config
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\DuplicateSubtree\bin\Debug\DuplicateSubtree.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\DuplicateSubtree\bin\Debug\DuplicateSubtree.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\DuplicateSubtree\bin\Debug\Tree.dll
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\DuplicateSubtree\bin\Debug\Tree.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\DuplicateSubtree\obj\Debug\DuplicateSubtree.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\DuplicateSubtree\obj\Debug\DuplicateSubtree.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\DuplicateSubtree\obj\Debug\DuplicateSubtree.csproj.CopyComplete
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\DuplicateSubtree\obj\Debug\DuplicateSubtree.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\DuplicateSubtree\obj\Debug\DuplicateSubtree.pdb

@@ -1,0 +1,9 @@
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\HeightOfFullBinaryTree\bin\Debug\HeightOfFullBinaryTree.exe.config
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\HeightOfFullBinaryTree\bin\Debug\HeightOfFullBinaryTree.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\HeightOfFullBinaryTree\bin\Debug\HeightOfFullBinaryTree.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\HeightOfFullBinaryTree\bin\Debug\Tree.dll
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\HeightOfFullBinaryTree\bin\Debug\Tree.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\HeightOfFullBinaryTree\obj\Debug\HeightOfFullBinaryTree.csprojResolveAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\HeightOfFullBinaryTree\obj\Debug\HeightOfFullBinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\HeightOfFullBinaryTree\obj\Debug\HeightOfFullBinaryTree.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\HeightOfFullBinaryTree\obj\Debug\HeightOfFullBinaryTree.pdb

@@ -1,0 +1,7 @@
+c:\Users\sharm\Source\Repos\Preparation\Sorting\Sorting\InsertionSort\bin\Debug\InsertionSort.exe.config
+c:\Users\sharm\Source\Repos\Preparation\Sorting\Sorting\InsertionSort\bin\Debug\InsertionSort.exe
+c:\Users\sharm\Source\Repos\Preparation\Sorting\Sorting\InsertionSort\bin\Debug\InsertionSort.pdb
+c:\Users\sharm\Source\Repos\Preparation\Sorting\Sorting\InsertionSort\obj\Debug\InsertionSort.csproj.CoreCompileInputs.cache
+c:\Users\sharm\Source\Repos\Preparation\Sorting\Sorting\InsertionSort\obj\Debug\InsertionSort.exe
+c:\Users\sharm\Source\Repos\Preparation\Sorting\Sorting\InsertionSort\obj\Debug\InsertionSort.pdb
+C:\Users\sharm\Source\Repos\Preparation\Sorting\Sorting\InsertionSort\obj\Debug\InsertionSort.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\RemoveAdjacentDuplicates\bin\Debug\RemoveAdjacentDuplicates.exe.config
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\RemoveAdjacentDuplicates\bin\Debug\RemoveAdjacentDuplicates.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\RemoveAdjacentDuplicates\bin\Debug\RemoveAdjacentDuplicates.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\RemoveAdjacentDuplicates\obj\Debug\RemoveAdjacentDuplicates.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\RemoveAdjacentDuplicates\obj\Debug\RemoveAdjacentDuplicates.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\RemoveAdjacentDuplicates\obj\Debug\RemoveAdjacentDuplicates.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\RemoveAdjacentDuplicates\obj\Debug\RemoveAdjacentDuplicates.pdb

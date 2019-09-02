@@ -1,0 +1,10 @@
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\LowestCommonAncestor\bin\Debug\LowestCommonAncestor.exe.config
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\LowestCommonAncestor\bin\Debug\LowestCommonAncestor.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\LowestCommonAncestor\bin\Debug\LowestCommonAncestor.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\LowestCommonAncestor\bin\Debug\Tree.dll
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\LowestCommonAncestor\bin\Debug\Tree.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\LowestCommonAncestor\obj\Debug\LowestCommonAncestor.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\LowestCommonAncestor\obj\Debug\LowestCommonAncestor.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\LowestCommonAncestor\obj\Debug\LowestCommonAncestor.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\LowestCommonAncestor\obj\Debug\LowestCommonAncestor.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\LowestCommonAncestor\obj\Debug\LowestCommonAncestor.csproj.CopyComplete

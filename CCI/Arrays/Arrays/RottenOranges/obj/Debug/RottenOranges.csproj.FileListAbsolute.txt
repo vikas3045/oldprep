@@ -1,0 +1,7 @@
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\RottenOranges\bin\Debug\RottenOranges.exe.config
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\RottenOranges\bin\Debug\RottenOranges.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\RottenOranges\bin\Debug\RottenOranges.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\RottenOranges\obj\Debug\RottenOranges.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\RottenOranges\obj\Debug\RottenOranges.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\RottenOranges\obj\Debug\RottenOranges.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\RottenOranges\obj\Debug\RottenOranges.pdb

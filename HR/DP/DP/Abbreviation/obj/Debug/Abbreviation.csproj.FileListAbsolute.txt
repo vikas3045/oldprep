@@ -1,0 +1,7 @@
+C:\Users\sharm\Source\Repos\preparation\HR\DP\DP\Abbreviation\bin\Debug\Abbreviation.exe.config
+C:\Users\sharm\Source\Repos\preparation\HR\DP\DP\Abbreviation\bin\Debug\Abbreviation.exe
+C:\Users\sharm\Source\Repos\preparation\HR\DP\DP\Abbreviation\bin\Debug\Abbreviation.pdb
+C:\Users\sharm\Source\Repos\preparation\HR\DP\DP\Abbreviation\obj\Debug\Abbreviation.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\preparation\HR\DP\DP\Abbreviation\obj\Debug\Abbreviation.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\preparation\HR\DP\DP\Abbreviation\obj\Debug\Abbreviation.exe
+C:\Users\sharm\Source\Repos\preparation\HR\DP\DP\Abbreviation\obj\Debug\Abbreviation.pdb

@@ -1,0 +1,7 @@
+c:\users\sharm\source\repos\preparation\CCI\TreesNGraphs\TreesNGraphs\BuildOrder\bin\Debug\BuildOrder.exe.config
+c:\users\sharm\source\repos\preparation\CCI\TreesNGraphs\TreesNGraphs\BuildOrder\bin\Debug\BuildOrder.exe
+c:\users\sharm\source\repos\preparation\CCI\TreesNGraphs\TreesNGraphs\BuildOrder\bin\Debug\BuildOrder.pdb
+c:\users\sharm\source\repos\preparation\CCI\TreesNGraphs\TreesNGraphs\BuildOrder\obj\Debug\BuildOrder.csproj.CoreCompileInputs.cache
+c:\users\sharm\source\repos\preparation\CCI\TreesNGraphs\TreesNGraphs\BuildOrder\obj\Debug\BuildOrder.exe
+c:\users\sharm\source\repos\preparation\CCI\TreesNGraphs\TreesNGraphs\BuildOrder\obj\Debug\BuildOrder.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\BuildOrder\obj\Debug\BuildOrder.csprojAssemblyReference.cache

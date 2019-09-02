@@ -1,0 +1,6 @@
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\LinkedList\bin\Debug\LinkedList.dll
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\LinkedList\bin\Debug\LinkedList.pdb
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\LinkedList\obj\Debug\LinkedList.csprojResolveAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\LinkedList\obj\Debug\LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\LinkedList\obj\Debug\LinkedList.dll
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\LinkedList\obj\Debug\LinkedList.pdb

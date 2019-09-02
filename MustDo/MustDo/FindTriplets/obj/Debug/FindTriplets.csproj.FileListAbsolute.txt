@@ -1,0 +1,7 @@
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\FindTriplets\obj\Debug\FindTriplets.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\FindTriplets\obj\Debug\FindTriplets.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\FindTriplets\bin\Debug\FindTriplets.exe.config
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\FindTriplets\bin\Debug\FindTriplets.exe
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\FindTriplets\bin\Debug\FindTriplets.pdb
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\FindTriplets\obj\Debug\FindTriplets.exe
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\FindTriplets\obj\Debug\FindTriplets.pdb

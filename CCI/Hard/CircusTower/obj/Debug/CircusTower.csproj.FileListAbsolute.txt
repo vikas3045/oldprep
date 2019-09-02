@@ -1,0 +1,7 @@
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\CircusTower\bin\Debug\CircusTower.exe.config
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\CircusTower\bin\Debug\CircusTower.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\CircusTower\bin\Debug\CircusTower.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\CircusTower\obj\Debug\CircusTower.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\CircusTower\obj\Debug\CircusTower.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\CircusTower\obj\Debug\CircusTower.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\CircusTower\obj\Debug\CircusTower.pdb

@@ -1,0 +1,6 @@
+c:\users\sharm\source\repos\Preparation\Heaps\Heaps\Heaps\bin\Debug\Heaps.dll
+c:\users\sharm\source\repos\Preparation\Heaps\Heaps\Heaps\bin\Debug\Heaps.pdb
+c:\users\sharm\source\repos\Preparation\Heaps\Heaps\Heaps\obj\Debug\Heaps.csprojResolveAssemblyReference.cache
+c:\users\sharm\source\repos\Preparation\Heaps\Heaps\Heaps\obj\Debug\Heaps.csproj.CoreCompileInputs.cache
+c:\users\sharm\source\repos\Preparation\Heaps\Heaps\Heaps\obj\Debug\Heaps.dll
+c:\users\sharm\source\repos\Preparation\Heaps\Heaps\Heaps\obj\Debug\Heaps.pdb

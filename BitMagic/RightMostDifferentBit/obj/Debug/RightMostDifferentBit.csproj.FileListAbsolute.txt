@@ -1,0 +1,11 @@
+C:\Users\sharm\Source\Repos\Preparation\BitMagic\RightMostDifferentBit\bin\Debug\RightMostDifferentBit.exe.config
+C:\Users\sharm\Source\Repos\Preparation\BitMagic\RightMostDifferentBit\bin\Debug\RightMostDifferentBit.exe
+C:\Users\sharm\Source\Repos\Preparation\BitMagic\RightMostDifferentBit\bin\Debug\RightMostDifferentBit.pdb
+C:\Users\sharm\Source\Repos\Preparation\BitMagic\RightMostDifferentBit\bin\Debug\DecimalToBinary.exe
+C:\Users\sharm\Source\Repos\Preparation\BitMagic\RightMostDifferentBit\bin\Debug\DecimalToBinary.pdb
+C:\Users\sharm\Source\Repos\Preparation\BitMagic\RightMostDifferentBit\bin\Debug\DecimalToBinary.exe.config
+C:\Users\sharm\Source\Repos\Preparation\BitMagic\RightMostDifferentBit\obj\Debug\RightMostDifferentBit.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\BitMagic\RightMostDifferentBit\obj\Debug\RightMostDifferentBit.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\BitMagic\RightMostDifferentBit\obj\Debug\RightMostDifferentBit.csproj.CopyComplete
+C:\Users\sharm\Source\Repos\Preparation\BitMagic\RightMostDifferentBit\obj\Debug\RightMostDifferentBit.exe
+C:\Users\sharm\Source\Repos\Preparation\BitMagic\RightMostDifferentBit\obj\Debug\RightMostDifferentBit.pdb

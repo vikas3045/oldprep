@@ -1,0 +1,10 @@
+c:\users\sharm\source\repos\preparation\CCI\TreesNGraphs\TreesNGraphs\IsBST\bin\Debug\IsBST.exe.config
+c:\users\sharm\source\repos\preparation\CCI\TreesNGraphs\TreesNGraphs\IsBST\bin\Debug\IsBST.exe
+c:\users\sharm\source\repos\preparation\CCI\TreesNGraphs\TreesNGraphs\IsBST\bin\Debug\IsBST.pdb
+c:\users\sharm\source\repos\preparation\CCI\TreesNGraphs\TreesNGraphs\IsBST\bin\Debug\Tree.dll
+c:\users\sharm\source\repos\preparation\CCI\TreesNGraphs\TreesNGraphs\IsBST\bin\Debug\Tree.pdb
+c:\users\sharm\source\repos\preparation\CCI\TreesNGraphs\TreesNGraphs\IsBST\obj\Debug\IsBST.csproj.CoreCompileInputs.cache
+c:\users\sharm\source\repos\preparation\CCI\TreesNGraphs\TreesNGraphs\IsBST\obj\Debug\IsBST.exe
+c:\users\sharm\source\repos\preparation\CCI\TreesNGraphs\TreesNGraphs\IsBST\obj\Debug\IsBST.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\IsBST\obj\Debug\IsBST.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\IsBST\obj\Debug\IsBST.csproj.CopyComplete

@@ -1,0 +1,7 @@
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\EnglishInt\bin\Debug\EnglishInt.exe.config
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\EnglishInt\bin\Debug\EnglishInt.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\EnglishInt\bin\Debug\EnglishInt.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\EnglishInt\obj\Debug\EnglishInt.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\EnglishInt\obj\Debug\EnglishInt.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\EnglishInt\obj\Debug\EnglishInt.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\EnglishInt\obj\Debug\EnglishInt.pdb

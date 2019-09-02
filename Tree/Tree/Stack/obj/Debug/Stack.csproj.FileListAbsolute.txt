@@ -1,0 +1,6 @@
+c:\Users\sharm\Source\Repos\Preparation\Tree\Tree\Stack\bin\Debug\Stack.dll
+c:\Users\sharm\Source\Repos\Preparation\Tree\Tree\Stack\bin\Debug\Stack.pdb
+c:\Users\sharm\Source\Repos\Preparation\Tree\Tree\Stack\obj\Debug\Stack.csprojResolveAssemblyReference.cache
+c:\Users\sharm\Source\Repos\Preparation\Tree\Tree\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+c:\Users\sharm\Source\Repos\Preparation\Tree\Tree\Stack\obj\Debug\Stack.dll
+c:\Users\sharm\Source\Repos\Preparation\Tree\Tree\Stack\obj\Debug\Stack.pdb

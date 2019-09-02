@@ -1,0 +1,6 @@
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\MasterMind\bin\Debug\MasterMind.exe.config
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\MasterMind\bin\Debug\MasterMind.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\MasterMind\bin\Debug\MasterMind.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\MasterMind\obj\Debug\MasterMind.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\MasterMind\obj\Debug\MasterMind.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\MasterMind\obj\Debug\MasterMind.pdb

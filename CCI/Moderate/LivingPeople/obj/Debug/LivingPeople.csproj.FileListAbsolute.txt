@@ -1,0 +1,7 @@
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\LivingPeople\bin\Debug\LivingPeople.exe.config
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\LivingPeople\bin\Debug\LivingPeople.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\LivingPeople\bin\Debug\LivingPeople.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\LivingPeople\obj\Debug\LivingPeople.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\LivingPeople\obj\Debug\LivingPeople.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\LivingPeople\obj\Debug\LivingPeople.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\LivingPeople\obj\Debug\LivingPeople.pdb

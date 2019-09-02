@@ -1,0 +1,7 @@
+c:\Users\sharm\Source\Repos\Preparation\Sorting\Sorting\MergeSort\bin\Debug\MergeSort.exe.config
+c:\Users\sharm\Source\Repos\Preparation\Sorting\Sorting\MergeSort\bin\Debug\MergeSort.exe
+c:\Users\sharm\Source\Repos\Preparation\Sorting\Sorting\MergeSort\bin\Debug\MergeSort.pdb
+c:\Users\sharm\Source\Repos\Preparation\Sorting\Sorting\MergeSort\obj\Debug\MergeSort.csprojResolveAssemblyReference.cache
+c:\Users\sharm\Source\Repos\Preparation\Sorting\Sorting\MergeSort\obj\Debug\MergeSort.csproj.CoreCompileInputs.cache
+c:\Users\sharm\Source\Repos\Preparation\Sorting\Sorting\MergeSort\obj\Debug\MergeSort.exe
+c:\Users\sharm\Source\Repos\Preparation\Sorting\Sorting\MergeSort\obj\Debug\MergeSort.pdb

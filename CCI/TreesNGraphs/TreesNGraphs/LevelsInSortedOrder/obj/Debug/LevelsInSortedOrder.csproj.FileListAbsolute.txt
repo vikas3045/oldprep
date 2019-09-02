@@ -1,0 +1,11 @@
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\LevelsInSortedOrder\bin\Debug\LevelsInSortedOrder.exe.config
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\LevelsInSortedOrder\bin\Debug\LevelsInSortedOrder.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\LevelsInSortedOrder\bin\Debug\LevelsInSortedOrder.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\LevelsInSortedOrder\bin\Debug\Heap.dll
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\LevelsInSortedOrder\bin\Debug\Tree.dll
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\LevelsInSortedOrder\bin\Debug\Heap.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\LevelsInSortedOrder\bin\Debug\Tree.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\LevelsInSortedOrder\obj\Debug\LevelsInSortedOrder.csprojResolveAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\LevelsInSortedOrder\obj\Debug\LevelsInSortedOrder.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\LevelsInSortedOrder\obj\Debug\LevelsInSortedOrder.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\LevelsInSortedOrder\obj\Debug\LevelsInSortedOrder.pdb

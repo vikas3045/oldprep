@@ -1,0 +1,7 @@
+c:\Users\sharm\Source\Repos\Preparation\Sorting\Sorting\SelectionSort\bin\Debug\SelectionSort.exe.config
+c:\Users\sharm\Source\Repos\Preparation\Sorting\Sorting\SelectionSort\bin\Debug\SelectionSort.exe
+c:\Users\sharm\Source\Repos\Preparation\Sorting\Sorting\SelectionSort\bin\Debug\SelectionSort.pdb
+c:\Users\sharm\Source\Repos\Preparation\Sorting\Sorting\SelectionSort\obj\Debug\SelectionSort.csprojResolveAssemblyReference.cache
+c:\Users\sharm\Source\Repos\Preparation\Sorting\Sorting\SelectionSort\obj\Debug\SelectionSort.csproj.CoreCompileInputs.cache
+c:\Users\sharm\Source\Repos\Preparation\Sorting\Sorting\SelectionSort\obj\Debug\SelectionSort.exe
+c:\Users\sharm\Source\Repos\Preparation\Sorting\Sorting\SelectionSort\obj\Debug\SelectionSort.pdb

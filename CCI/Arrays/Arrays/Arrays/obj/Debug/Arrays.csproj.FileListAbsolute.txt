@@ -1,0 +1,7 @@
+c:\users\sharm\source\repos\preparation\CCI\Arrays\Arrays\Arrays\bin\Debug\Arrays.exe.config
+c:\users\sharm\source\repos\preparation\CCI\Arrays\Arrays\Arrays\bin\Debug\Arrays.exe
+c:\users\sharm\source\repos\preparation\CCI\Arrays\Arrays\Arrays\bin\Debug\Arrays.pdb
+c:\users\sharm\source\repos\preparation\CCI\Arrays\Arrays\Arrays\obj\Debug\Arrays.csprojResolveAssemblyReference.cache
+c:\users\sharm\source\repos\preparation\CCI\Arrays\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+c:\users\sharm\source\repos\preparation\CCI\Arrays\Arrays\Arrays\obj\Debug\Arrays.exe
+c:\users\sharm\source\repos\preparation\CCI\Arrays\Arrays\Arrays\obj\Debug\Arrays.pdb

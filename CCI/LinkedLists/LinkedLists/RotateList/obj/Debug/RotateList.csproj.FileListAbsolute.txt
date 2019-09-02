@@ -1,0 +1,10 @@
+C:\Users\sharm\source\repos\preparation\CCI\LinkedLists\LinkedLists\RotateList\bin\Debug\RotateList.exe.config
+C:\Users\sharm\source\repos\preparation\CCI\LinkedLists\LinkedLists\RotateList\bin\Debug\RotateList.exe
+C:\Users\sharm\source\repos\preparation\CCI\LinkedLists\LinkedLists\RotateList\bin\Debug\RotateList.pdb
+C:\Users\sharm\source\repos\preparation\CCI\LinkedLists\LinkedLists\RotateList\bin\Debug\LinkedList.dll
+C:\Users\sharm\source\repos\preparation\CCI\LinkedLists\LinkedLists\RotateList\bin\Debug\LinkedList.pdb
+C:\Users\sharm\source\repos\preparation\CCI\LinkedLists\LinkedLists\RotateList\obj\Debug\RotateList.csprojAssemblyReference.cache
+C:\Users\sharm\source\repos\preparation\CCI\LinkedLists\LinkedLists\RotateList\obj\Debug\RotateList.csproj.CoreCompileInputs.cache
+C:\Users\sharm\source\repos\preparation\CCI\LinkedLists\LinkedLists\RotateList\obj\Debug\RotateList.csproj.CopyComplete
+C:\Users\sharm\source\repos\preparation\CCI\LinkedLists\LinkedLists\RotateList\obj\Debug\RotateList.exe
+C:\Users\sharm\source\repos\preparation\CCI\LinkedLists\LinkedLists\RotateList\obj\Debug\RotateList.pdb

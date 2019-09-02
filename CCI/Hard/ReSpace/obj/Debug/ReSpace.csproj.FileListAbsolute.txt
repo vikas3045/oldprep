@@ -1,0 +1,7 @@
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\ReSpace\bin\Debug\ReSpace.exe.config
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\ReSpace\bin\Debug\ReSpace.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\ReSpace\bin\Debug\ReSpace.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\ReSpace\obj\Debug\ReSpace.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\ReSpace\obj\Debug\ReSpace.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\ReSpace\obj\Debug\ReSpace.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\ReSpace\obj\Debug\ReSpace.pdb

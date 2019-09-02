@@ -1,0 +1,7 @@
+c:\Users\sharm\Source\Repos\preparation\CCI\Arrays\Arrays\StringCompression\bin\Debug\StringCompression.exe.config
+c:\Users\sharm\Source\Repos\preparation\CCI\Arrays\Arrays\StringCompression\bin\Debug\StringCompression.exe
+c:\Users\sharm\Source\Repos\preparation\CCI\Arrays\Arrays\StringCompression\bin\Debug\StringCompression.pdb
+c:\Users\sharm\Source\Repos\preparation\CCI\Arrays\Arrays\StringCompression\obj\Debug\StringCompression.csproj.CoreCompileInputs.cache
+c:\Users\sharm\Source\Repos\preparation\CCI\Arrays\Arrays\StringCompression\obj\Debug\StringCompression.exe
+c:\Users\sharm\Source\Repos\preparation\CCI\Arrays\Arrays\StringCompression\obj\Debug\StringCompression.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\StringCompression\obj\Debug\StringCompression.csprojAssemblyReference.cache

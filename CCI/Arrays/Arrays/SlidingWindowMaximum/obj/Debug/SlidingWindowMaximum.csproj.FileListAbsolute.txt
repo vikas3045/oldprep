@@ -1,0 +1,7 @@
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\SlidingWindowMaximum\bin\Debug\SlidingWindowMaximum.exe.config
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\SlidingWindowMaximum\bin\Debug\SlidingWindowMaximum.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\SlidingWindowMaximum\bin\Debug\SlidingWindowMaximum.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\SlidingWindowMaximum\obj\Debug\SlidingWindowMaximum.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\SlidingWindowMaximum\obj\Debug\SlidingWindowMaximum.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\SlidingWindowMaximum\obj\Debug\SlidingWindowMaximum.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\SlidingWindowMaximum\obj\Debug\SlidingWindowMaximum.pdb

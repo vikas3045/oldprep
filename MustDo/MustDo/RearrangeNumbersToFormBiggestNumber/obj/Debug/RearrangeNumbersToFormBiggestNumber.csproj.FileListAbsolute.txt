@@ -1,0 +1,7 @@
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\RearrangeNumbersToFormBiggestNumber\bin\Debug\RearrangeNumbersToFormBiggestNumber.exe.config
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\RearrangeNumbersToFormBiggestNumber\bin\Debug\RearrangeNumbersToFormBiggestNumber.exe
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\RearrangeNumbersToFormBiggestNumber\bin\Debug\RearrangeNumbersToFormBiggestNumber.pdb
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\RearrangeNumbersToFormBiggestNumber\obj\Debug\RearrangeNumbersToFormBiggestNumber.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\RearrangeNumbersToFormBiggestNumber\obj\Debug\RearrangeNumbersToFormBiggestNumber.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\RearrangeNumbersToFormBiggestNumber\obj\Debug\RearrangeNumbersToFormBiggestNumber.exe
+C:\Users\sharm\Source\Repos\Preparation\MustDo\MustDo\RearrangeNumbersToFormBiggestNumber\obj\Debug\RearrangeNumbersToFormBiggestNumber.pdb

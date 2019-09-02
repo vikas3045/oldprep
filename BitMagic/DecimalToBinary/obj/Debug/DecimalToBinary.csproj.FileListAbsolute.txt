@@ -1,0 +1,6 @@
+C:\Users\sharm\Source\Repos\Preparation\BitMagic\DecimalToBinary\bin\Debug\DecimalToBinary.exe.config
+C:\Users\sharm\Source\Repos\Preparation\BitMagic\DecimalToBinary\bin\Debug\DecimalToBinary.exe
+C:\Users\sharm\Source\Repos\Preparation\BitMagic\DecimalToBinary\bin\Debug\DecimalToBinary.pdb
+C:\Users\sharm\Source\Repos\Preparation\BitMagic\DecimalToBinary\obj\Debug\DecimalToBinary.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\BitMagic\DecimalToBinary\obj\Debug\DecimalToBinary.exe
+C:\Users\sharm\Source\Repos\Preparation\BitMagic\DecimalToBinary\obj\Debug\DecimalToBinary.pdb

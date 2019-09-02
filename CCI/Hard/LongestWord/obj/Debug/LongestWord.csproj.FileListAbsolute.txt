@@ -1,0 +1,7 @@
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\LongestWord\bin\Debug\LongestWord.exe.config
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\LongestWord\bin\Debug\LongestWord.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\LongestWord\bin\Debug\LongestWord.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\LongestWord\obj\Debug\LongestWord.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\LongestWord\obj\Debug\LongestWord.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\LongestWord\obj\Debug\LongestWord.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\LongestWord\obj\Debug\LongestWord.pdb

@@ -1,0 +1,11 @@
+c:\Users\sharm\Source\Repos\Preparation\Tree\Tree\PreOrder\bin\Debug\PreOrder.exe.config
+c:\Users\sharm\Source\Repos\Preparation\Tree\Tree\PreOrder\bin\Debug\PreOrder.exe
+c:\Users\sharm\Source\Repos\Preparation\Tree\Tree\PreOrder\bin\Debug\PreOrder.pdb
+c:\Users\sharm\Source\Repos\Preparation\Tree\Tree\PreOrder\bin\Debug\Tree.dll
+c:\Users\sharm\Source\Repos\Preparation\Tree\Tree\PreOrder\bin\Debug\Tree.pdb
+c:\Users\sharm\Source\Repos\Preparation\Tree\Tree\PreOrder\obj\Debug\PreOrder.csprojResolveAssemblyReference.cache
+c:\Users\sharm\Source\Repos\Preparation\Tree\Tree\PreOrder\obj\Debug\PreOrder.csproj.CoreCompileInputs.cache
+c:\Users\sharm\Source\Repos\Preparation\Tree\Tree\PreOrder\obj\Debug\PreOrder.exe
+c:\Users\sharm\Source\Repos\Preparation\Tree\Tree\PreOrder\obj\Debug\PreOrder.pdb
+c:\Users\sharm\Source\Repos\Preparation\Tree\Tree\PreOrder\bin\Debug\Stack.dll
+c:\Users\sharm\Source\Repos\Preparation\Tree\Tree\PreOrder\bin\Debug\Stack.pdb

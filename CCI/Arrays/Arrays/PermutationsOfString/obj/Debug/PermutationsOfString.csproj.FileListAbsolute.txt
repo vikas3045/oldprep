@@ -1,0 +1,7 @@
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\PermutationsOfString\bin\Debug\PermutationsOfString.exe.config
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\PermutationsOfString\bin\Debug\PermutationsOfString.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\PermutationsOfString\bin\Debug\PermutationsOfString.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\PermutationsOfString\obj\Debug\PermutationsOfString.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\PermutationsOfString\obj\Debug\PermutationsOfString.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\PermutationsOfString\obj\Debug\PermutationsOfString.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\PermutationsOfString\obj\Debug\PermutationsOfString.pdb

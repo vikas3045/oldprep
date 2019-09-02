@@ -1,0 +1,7 @@
+C:\Users\sharm\Source\Repos\Preparation\Backtracking\Permutations\bin\Debug\Permutations.exe.config
+C:\Users\sharm\Source\Repos\Preparation\Backtracking\Permutations\bin\Debug\Permutations.exe
+C:\Users\sharm\Source\Repos\Preparation\Backtracking\Permutations\bin\Debug\Permutations.pdb
+C:\Users\sharm\Source\Repos\Preparation\Backtracking\Permutations\obj\Debug\Permutations.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\Backtracking\Permutations\obj\Debug\Permutations.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\Backtracking\Permutations\obj\Debug\Permutations.exe
+C:\Users\sharm\Source\Repos\Preparation\Backtracking\Permutations\obj\Debug\Permutations.pdb

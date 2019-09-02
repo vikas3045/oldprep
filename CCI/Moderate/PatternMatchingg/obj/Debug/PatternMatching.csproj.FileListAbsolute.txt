@@ -1,0 +1,7 @@
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\PatternMatchingg\bin\Debug\PatternMatchingg.exe.config
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\PatternMatchingg\bin\Debug\PatternMatchingg.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\PatternMatchingg\bin\Debug\PatternMatchingg.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\PatternMatchingg\obj\Debug\PatternMatching.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\PatternMatchingg\obj\Debug\PatternMatching.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\PatternMatchingg\obj\Debug\PatternMatchingg.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\PatternMatchingg\obj\Debug\PatternMatchingg.pdb

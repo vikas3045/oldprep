@@ -1,0 +1,11 @@
+c:\Users\sharm\Source\Repos\Preparation\Tree\Tree\InOrder\bin\Debug\InOrder.exe.config
+c:\Users\sharm\Source\Repos\Preparation\Tree\Tree\InOrder\bin\Debug\InOrder.exe
+c:\Users\sharm\Source\Repos\Preparation\Tree\Tree\InOrder\bin\Debug\InOrder.pdb
+c:\Users\sharm\Source\Repos\Preparation\Tree\Tree\InOrder\bin\Debug\Stack.dll
+c:\Users\sharm\Source\Repos\Preparation\Tree\Tree\InOrder\bin\Debug\Tree.dll
+c:\Users\sharm\Source\Repos\Preparation\Tree\Tree\InOrder\bin\Debug\Stack.pdb
+c:\Users\sharm\Source\Repos\Preparation\Tree\Tree\InOrder\bin\Debug\Tree.pdb
+c:\Users\sharm\Source\Repos\Preparation\Tree\Tree\InOrder\obj\Debug\InOrder.csprojResolveAssemblyReference.cache
+c:\Users\sharm\Source\Repos\Preparation\Tree\Tree\InOrder\obj\Debug\InOrder.csproj.CoreCompileInputs.cache
+c:\Users\sharm\Source\Repos\Preparation\Tree\Tree\InOrder\obj\Debug\InOrder.exe
+c:\Users\sharm\Source\Repos\Preparation\Tree\Tree\InOrder\obj\Debug\InOrder.pdb

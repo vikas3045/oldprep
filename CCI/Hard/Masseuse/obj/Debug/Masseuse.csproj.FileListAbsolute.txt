@@ -1,0 +1,7 @@
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\Masseuse\bin\Debug\Masseuse.exe.config
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\Masseuse\bin\Debug\Masseuse.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\Masseuse\bin\Debug\Masseuse.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\Masseuse\obj\Debug\Masseuse.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\Masseuse\obj\Debug\Masseuse.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\Masseuse\obj\Debug\Masseuse.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\Masseuse\obj\Debug\Masseuse.pdb

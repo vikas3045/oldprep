@@ -1,0 +1,10 @@
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\FindAllDuplicateSubtrees\bin\Debug\FindAllDuplicateSubtrees.exe.config
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\FindAllDuplicateSubtrees\bin\Debug\FindAllDuplicateSubtrees.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\FindAllDuplicateSubtrees\bin\Debug\FindAllDuplicateSubtrees.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\FindAllDuplicateSubtrees\bin\Debug\Tree.dll
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\FindAllDuplicateSubtrees\bin\Debug\Tree.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\FindAllDuplicateSubtrees\obj\Debug\FindAllDuplicateSubtrees.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\FindAllDuplicateSubtrees\obj\Debug\FindAllDuplicateSubtrees.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\FindAllDuplicateSubtrees\obj\Debug\FindAllDuplicateSubtrees.csproj.CopyComplete
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\FindAllDuplicateSubtrees\obj\Debug\FindAllDuplicateSubtrees.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\FindAllDuplicateSubtrees\obj\Debug\FindAllDuplicateSubtrees.pdb

@@ -1,0 +1,7 @@
+c:\Users\sharm\Source\Repos\Preparation\Sorting\Sorting\QuickSort\bin\Debug\QuickSort.exe.config
+c:\Users\sharm\Source\Repos\Preparation\Sorting\Sorting\QuickSort\bin\Debug\QuickSort.exe
+c:\Users\sharm\Source\Repos\Preparation\Sorting\Sorting\QuickSort\bin\Debug\QuickSort.pdb
+c:\Users\sharm\Source\Repos\Preparation\Sorting\Sorting\QuickSort\obj\Debug\QuickSort.csprojResolveAssemblyReference.cache
+c:\Users\sharm\Source\Repos\Preparation\Sorting\Sorting\QuickSort\obj\Debug\QuickSort.csproj.CoreCompileInputs.cache
+c:\Users\sharm\Source\Repos\Preparation\Sorting\Sorting\QuickSort\obj\Debug\QuickSort.exe
+c:\Users\sharm\Source\Repos\Preparation\Sorting\Sorting\QuickSort\obj\Debug\QuickSort.pdb

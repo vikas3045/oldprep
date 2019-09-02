@@ -1,0 +1,6 @@
+C:\Users\sharm\Source\Repos\Preparation\BitMagic\MaximumSubsetXOR\bin\Debug\MaximumSubsetXOR.exe.config
+C:\Users\sharm\Source\Repos\Preparation\BitMagic\MaximumSubsetXOR\bin\Debug\MaximumSubsetXOR.exe
+C:\Users\sharm\Source\Repos\Preparation\BitMagic\MaximumSubsetXOR\bin\Debug\MaximumSubsetXOR.pdb
+C:\Users\sharm\Source\Repos\Preparation\BitMagic\MaximumSubsetXOR\obj\Debug\MaximumSubsetXOR.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\BitMagic\MaximumSubsetXOR\obj\Debug\MaximumSubsetXOR.exe
+C:\Users\sharm\Source\Repos\Preparation\BitMagic\MaximumSubsetXOR\obj\Debug\MaximumSubsetXOR.pdb

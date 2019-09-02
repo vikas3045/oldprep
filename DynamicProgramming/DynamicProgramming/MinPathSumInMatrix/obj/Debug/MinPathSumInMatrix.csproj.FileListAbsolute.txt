@@ -1,0 +1,7 @@
+C:\Users\sharm\Source\Repos\Preparation\DynamicProgramming\DynamicProgramming\MinPathSumInMatrix\bin\Debug\MinPathSumInMatrix.exe.config
+C:\Users\sharm\Source\Repos\Preparation\DynamicProgramming\DynamicProgramming\MinPathSumInMatrix\bin\Debug\MinPathSumInMatrix.exe
+C:\Users\sharm\Source\Repos\Preparation\DynamicProgramming\DynamicProgramming\MinPathSumInMatrix\bin\Debug\MinPathSumInMatrix.pdb
+C:\Users\sharm\Source\Repos\Preparation\DynamicProgramming\DynamicProgramming\MinPathSumInMatrix\obj\Debug\MinPathSumInMatrix.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\DynamicProgramming\DynamicProgramming\MinPathSumInMatrix\obj\Debug\MinPathSumInMatrix.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\DynamicProgramming\DynamicProgramming\MinPathSumInMatrix\obj\Debug\MinPathSumInMatrix.exe
+C:\Users\sharm\Source\Repos\Preparation\DynamicProgramming\DynamicProgramming\MinPathSumInMatrix\obj\Debug\MinPathSumInMatrix.pdb

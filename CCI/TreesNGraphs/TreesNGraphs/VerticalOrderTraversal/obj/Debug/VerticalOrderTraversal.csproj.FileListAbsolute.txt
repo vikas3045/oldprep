@@ -1,0 +1,10 @@
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\VerticalOrderTraversal\bin\Debug\VerticalOrderTraversal.exe.config
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\VerticalOrderTraversal\bin\Debug\VerticalOrderTraversal.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\VerticalOrderTraversal\bin\Debug\VerticalOrderTraversal.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\VerticalOrderTraversal\bin\Debug\Tree.dll
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\VerticalOrderTraversal\bin\Debug\Tree.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\VerticalOrderTraversal\obj\Debug\VerticalOrderTraversal.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\VerticalOrderTraversal\obj\Debug\VerticalOrderTraversal.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\VerticalOrderTraversal\obj\Debug\VerticalOrderTraversal.csproj.CopyComplete
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\VerticalOrderTraversal\obj\Debug\VerticalOrderTraversal.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\VerticalOrderTraversal\obj\Debug\VerticalOrderTraversal.pdb

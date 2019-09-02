@@ -1,0 +1,7 @@
+C:\Users\sharm\Source\Repos\preparation\CCI\Arrays\Arrays\StockBuySell\bin\Debug\StockBuySell.exe.config
+C:\Users\sharm\Source\Repos\preparation\CCI\Arrays\Arrays\StockBuySell\bin\Debug\StockBuySell.exe
+C:\Users\sharm\Source\Repos\preparation\CCI\Arrays\Arrays\StockBuySell\bin\Debug\StockBuySell.pdb
+C:\Users\sharm\Source\Repos\preparation\CCI\Arrays\Arrays\StockBuySell\obj\Debug\StockBuySell.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\preparation\CCI\Arrays\Arrays\StockBuySell\obj\Debug\StockBuySell.exe
+C:\Users\sharm\Source\Repos\preparation\CCI\Arrays\Arrays\StockBuySell\obj\Debug\StockBuySell.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\StockBuySell\obj\Debug\StockBuySell.csprojAssemblyReference.cache

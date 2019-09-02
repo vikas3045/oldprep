@@ -1,0 +1,6 @@
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\FactorialZeros\bin\Debug\FactorialZeros.exe.config
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\FactorialZeros\bin\Debug\FactorialZeros.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\FactorialZeros\bin\Debug\FactorialZeros.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\FactorialZeros\obj\Debug\FactorialZeros.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\FactorialZeros\obj\Debug\FactorialZeros.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\FactorialZeros\obj\Debug\FactorialZeros.pdb

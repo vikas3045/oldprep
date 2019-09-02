@@ -1,0 +1,6 @@
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\PairsWithSum\bin\Debug\PairsWithSum.exe.config
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\PairsWithSum\bin\Debug\PairsWithSum.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\PairsWithSum\bin\Debug\PairsWithSum.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\PairsWithSum\obj\Debug\PairsWithSum.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\PairsWithSum\obj\Debug\PairsWithSum.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\PairsWithSum\obj\Debug\PairsWithSum.pdb

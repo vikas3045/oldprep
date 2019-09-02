@@ -1,0 +1,7 @@
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\StockSpan\bin\Debug\StockSpan.exe.config
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\StockSpan\bin\Debug\StockSpan.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\StockSpan\bin\Debug\StockSpan.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\StockSpan\obj\Debug\StockSpan.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\StockSpan\obj\Debug\StockSpan.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\StockSpan\obj\Debug\StockSpan.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Arrays\Arrays\StockSpan\obj\Debug\StockSpan.pdb

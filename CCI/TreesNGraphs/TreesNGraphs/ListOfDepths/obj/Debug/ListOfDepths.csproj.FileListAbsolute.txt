@@ -1,0 +1,10 @@
+c:\users\sharm\source\repos\preparation\CCI\TreesNGraphs\TreesNGraphs\ListOfDepths\bin\Debug\ListOfDepths.exe.config
+c:\users\sharm\source\repos\preparation\CCI\TreesNGraphs\TreesNGraphs\ListOfDepths\bin\Debug\ListOfDepths.exe
+c:\users\sharm\source\repos\preparation\CCI\TreesNGraphs\TreesNGraphs\ListOfDepths\bin\Debug\ListOfDepths.pdb
+c:\users\sharm\source\repos\preparation\CCI\TreesNGraphs\TreesNGraphs\ListOfDepths\bin\Debug\Tree.dll
+c:\users\sharm\source\repos\preparation\CCI\TreesNGraphs\TreesNGraphs\ListOfDepths\bin\Debug\Tree.pdb
+c:\users\sharm\source\repos\preparation\CCI\TreesNGraphs\TreesNGraphs\ListOfDepths\obj\Debug\ListOfDepths.csproj.CoreCompileInputs.cache
+c:\users\sharm\source\repos\preparation\CCI\TreesNGraphs\TreesNGraphs\ListOfDepths\obj\Debug\ListOfDepths.exe
+c:\users\sharm\source\repos\preparation\CCI\TreesNGraphs\TreesNGraphs\ListOfDepths\obj\Debug\ListOfDepths.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\ListOfDepths\obj\Debug\ListOfDepths.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\ListOfDepths\obj\Debug\ListOfDepths.csproj.CopyComplete

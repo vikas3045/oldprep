@@ -1,0 +1,7 @@
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\SubSort\bin\Debug\SubSort.exe.config
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\SubSort\bin\Debug\SubSort.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\SubSort\bin\Debug\SubSort.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\SubSort\obj\Debug\SubSort.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\SubSort\obj\Debug\SubSort.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\SubSort\obj\Debug\SubSort.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\SubSort\obj\Debug\SubSort.pdb

@@ -1,0 +1,7 @@
+C:\Users\sharm\Source\Repos\Preparation\DynamicProgramming\DynamicProgramming\MinPalindromePartitioning\bin\Debug\MinPalindromePartitioning.exe.config
+C:\Users\sharm\Source\Repos\Preparation\DynamicProgramming\DynamicProgramming\MinPalindromePartitioning\bin\Debug\MinPalindromePartitioning.exe
+C:\Users\sharm\Source\Repos\Preparation\DynamicProgramming\DynamicProgramming\MinPalindromePartitioning\bin\Debug\MinPalindromePartitioning.pdb
+C:\Users\sharm\Source\Repos\Preparation\DynamicProgramming\DynamicProgramming\MinPalindromePartitioning\obj\Debug\MinPalindromePartitioning.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\DynamicProgramming\DynamicProgramming\MinPalindromePartitioning\obj\Debug\MinPalindromePartitioning.exe
+C:\Users\sharm\Source\Repos\Preparation\DynamicProgramming\DynamicProgramming\MinPalindromePartitioning\obj\Debug\MinPalindromePartitioning.pdb
+C:\Users\sharm\Source\Repos\Preparation\DynamicProgramming\DynamicProgramming\MinPalindromePartitioning\obj\Debug\MinPalindromePartitioning.csprojAssemblyReference.cache

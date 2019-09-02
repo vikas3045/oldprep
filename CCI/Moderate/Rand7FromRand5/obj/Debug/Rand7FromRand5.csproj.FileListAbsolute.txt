@@ -1,0 +1,7 @@
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\Rand7FromRand5\bin\Debug\Rand7FromRand5.exe.config
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\Rand7FromRand5\bin\Debug\Rand7FromRand5.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\Rand7FromRand5\bin\Debug\Rand7FromRand5.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\Rand7FromRand5\obj\Debug\Rand7FromRand5.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\Rand7FromRand5\obj\Debug\Rand7FromRand5.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\Rand7FromRand5\obj\Debug\Rand7FromRand5.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\Moderate\Rand7FromRand5\obj\Debug\Rand7FromRand5.csprojAssemblyReference.cache

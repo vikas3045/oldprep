@@ -1,0 +1,6 @@
+C:\Users\sharm\Source\Repos\preparation\Graph\Graph\Graph\bin\Debug\Graph.dll
+C:\Users\sharm\Source\Repos\preparation\Graph\Graph\Graph\bin\Debug\Graph.pdb
+C:\Users\sharm\Source\Repos\preparation\Graph\Graph\Graph\obj\Debug\Graph.csprojResolveAssemblyReference.cache
+C:\Users\sharm\Source\Repos\preparation\Graph\Graph\Graph\obj\Debug\Graph.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\preparation\Graph\Graph\Graph\obj\Debug\Graph.dll
+C:\Users\sharm\Source\Repos\preparation\Graph\Graph\Graph\obj\Debug\Graph.pdb

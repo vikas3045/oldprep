@@ -1,0 +1,7 @@
+C:\Users\sharm\Source\Repos\Preparation\DynamicProgramming\DynamicProgramming\SubsetSum\bin\Debug\SubsetSum.exe.config
+C:\Users\sharm\Source\Repos\Preparation\DynamicProgramming\DynamicProgramming\SubsetSum\bin\Debug\SubsetSum.exe
+C:\Users\sharm\Source\Repos\Preparation\DynamicProgramming\DynamicProgramming\SubsetSum\bin\Debug\SubsetSum.pdb
+C:\Users\sharm\Source\Repos\Preparation\DynamicProgramming\DynamicProgramming\SubsetSum\obj\Debug\SubsetSum.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\DynamicProgramming\DynamicProgramming\SubsetSum\obj\Debug\SubsetSum.exe
+C:\Users\sharm\Source\Repos\Preparation\DynamicProgramming\DynamicProgramming\SubsetSum\obj\Debug\SubsetSum.pdb
+C:\Users\sharm\Source\Repos\Preparation\DynamicProgramming\DynamicProgramming\SubsetSum\obj\Debug\SubsetSum.csprojAssemblyReference.cache

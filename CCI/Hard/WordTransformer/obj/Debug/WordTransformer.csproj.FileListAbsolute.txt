@@ -1,0 +1,7 @@
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\WordTransformer\bin\Debug\WordTransformer.exe.config
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\WordTransformer\bin\Debug\WordTransformer.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\WordTransformer\bin\Debug\WordTransformer.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\WordTransformer\obj\Debug\WordTransformer.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\WordTransformer\obj\Debug\WordTransformer.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\WordTransformer\obj\Debug\WordTransformer.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\Hard\WordTransformer\obj\Debug\WordTransformer.pdb

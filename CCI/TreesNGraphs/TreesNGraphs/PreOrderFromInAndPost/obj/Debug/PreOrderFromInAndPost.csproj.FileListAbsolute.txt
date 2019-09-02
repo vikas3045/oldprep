@@ -1,0 +1,7 @@
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\PreOrderFromInAndPost\bin\Debug\PreOrderFromInAndPost.exe.config
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\PreOrderFromInAndPost\bin\Debug\PreOrderFromInAndPost.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\PreOrderFromInAndPost\bin\Debug\PreOrderFromInAndPost.pdb
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\PreOrderFromInAndPost\obj\Debug\PreOrderFromInAndPost.csprojAssemblyReference.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\PreOrderFromInAndPost\obj\Debug\PreOrderFromInAndPost.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\PreOrderFromInAndPost\obj\Debug\PreOrderFromInAndPost.exe
+C:\Users\sharm\Source\Repos\Preparation\CCI\TreesNGraphs\TreesNGraphs\PreOrderFromInAndPost\obj\Debug\PreOrderFromInAndPost.pdb

@@ -1,0 +1,7 @@
+c:\Users\sharm\Source\Repos\preparation\CCI\Arrays\Arrays\URLify\bin\Debug\URLify.exe.config
+c:\Users\sharm\Source\Repos\preparation\CCI\Arrays\Arrays\URLify\bin\Debug\URLify.exe
+c:\Users\sharm\Source\Repos\preparation\CCI\Arrays\Arrays\URLify\bin\Debug\URLify.pdb
+c:\Users\sharm\Source\Repos\preparation\CCI\Arrays\Arrays\URLify\obj\Debug\URLify.csproj.CoreCompileInputs.cache
+c:\Users\sharm\Source\Repos\preparation\CCI\Arrays\Arrays\URLify\obj\Debug\URLify.exe
+c:\Users\sharm\Source\Repos\preparation\CCI\Arrays\Arrays\URLify\obj\Debug\URLify.pdb
+C:\Users\sharm\Source\Repos\preparation\CCI\Arrays\Arrays\URLify\obj\Debug\URLify.csprojAssemblyReference.cache
